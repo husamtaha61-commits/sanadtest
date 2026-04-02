@@ -1,0 +1,115 @@
+plugins {
+    id "com.android.application"
+    // START: FlutterFire Configuration
+    id 'com.google.gms.google-services'
+    // END: FlutterFire Configuration
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    compileSdkVersion 35
+    namespace "com.sanadquran.sanad"
+    compileSdk 35
+    ndkVersion "27.0.12077973"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+        coreLibraryDesugaringEnabled true
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    defaultConfig {
+        applicationId "com.sanadquran.sanad"
+        minSdkVersion 24
+        targetSdkVersion 35
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+
+    flavorDimensions "default"
+    productFlavors {
+        dev {
+            dimension "default"
+            resValue "string", "app_name", "Sanad Quran Dev"
+            applicationIdSuffix ".dev"
+        }
+        stage {
+            dimension "default"
+            resValue "string", "app_name", "Sanad Quran Stage"
+            applicationIdSuffix ".stg"
+        }
+        prod {
+            dimension "default"
+            resValue "string", "app_name", "Sanad Quran"
+        }
+    }
+
+signingConfigs {
+    release {
+        keyAlias = keystoreProperties['keyAlias']
+        keyPassword = keystoreProperties['keyPassword']
+        storeFile = keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+        storePassword = keystoreProperties['storePassword']
+    }
+}
+
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            shrinkResources true
+        }
+        debug {
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    packagingOptions {
+       resources.excludes.add("META-INF/*")
+   }
+
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation 'com.facebook.android:facebook-android-sdk:latest.release'
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:1.2.2'
+    implementation 'org.slf4j:slf4j-simple:2.0.7'
+}

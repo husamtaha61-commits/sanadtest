@@ -1,0 +1,1215 @@
+{
+  "accountSettings": {
+    "accountDeletion": {
+      "stm1": "Deleting your account is a permanent action. Once you click on \"Delete Account\" your subscription with the platform will be immediately canceled, and all access to the platform will be permanently removed. You will no longer be able to read with us unless you reapply through a new evaluation interview, as if you were joining the platform for the first time. Please ensure this is the action you wish to take, as it cannot be undone.",
+      "title": "Account Deletion"
+    },
+    "changePassword": {
+      "confirmPassword": "Confirm Password",
+      "newPassword": "New Password",
+      "oldPassword": "Old Password",
+      "title": "Change Password"
+    },
+    "khitmaSuspension": {
+      "stm1": "To request a temporary suspension of your Khitma, which allows you to pause your Khitma for a specific period, please select a reason from the dropdown menu below. This request will be reviewed and processed by our administrative team. You will be notified of the status of your request through your email.",
+      "suspenesionDuration": "Duration",
+      "suspensionReason": "Suspension Reason",
+      "title": "Khitma Suspension"
+    },
+    "personalInformation": {
+      "documentType": "Document Type",
+      "documents": "Documents",
+      "replaceDocument": "Replace Document",
+      "title": "Personal Information",
+      "updateInformation": "Update Information!"
+    },
+    "preferences": {
+      "title": "Preferences"
+    },
+    "title": "Account Settings"
+  },
+  "apiError": {
+    "connection": "Please check your internet connection",
+    "server": "Unexpected error, Please try later",
+    "sessionExpired": "Session expired. Please log in again"
+  },
+  "bookmarks": {
+    "noNotesFound": "No bookmarks have been selected in the live sessions",
+    "title": "Bookmarked Verses"
+  },
+  "button": {
+    "add": "Add",
+    "addPage": "Add Page",
+    "apply": "Apply",
+    "approveRequest": "Approve Request",
+    "approveSchedule": "Approve Schedule",
+    "approved": "Approved",
+    "attach": "Attach File",
+    "back": "Back",
+    "bookANewSession": "Book a New Session",
+    "browse": "Browse",
+    "cancel": "Cancel",
+    "cancelRequest": "Cancel Request",
+    "cancelSession": "Cancel Session",
+    "comingSoon": "Coming Soon",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "delete": "Delete",
+    "deleteAccount": "Delete Account",
+    "done": "Done",
+    "edit": "Edit",
+    "editAvailability": "Edit Availability",
+    "editProfile": "Edit Profile",
+    "extraSession": "Extra Session",
+    "goToHomePage": "Go To Home Page",
+    "goToLogin": "Go To Login Page",
+    "goToSession": "Go to Session",
+    "goToSkillsAndNotes": "Go To Skills & Notes",
+    "goToSubscriptions": "Go To Subscriptions Page",
+    "join": "Join",
+    "login": "Login",
+    "moreDetails": "More Details",
+    "newSession": "New Session",
+    "next": "Next",
+    "no": "No",
+    "ok": "Ok",
+    "openQuran": "Open Quran",
+    "pending": "Pending",
+    "preview": "Preview",
+    "reRecord": "Re-record",
+    "recitersList": "Reciters List",
+    "record": "Record",
+    "rejectRequest": "Reject Request",
+    "rejected": "Rejected",
+    "replace": "Replace",
+    "requestChange": "Request Change",
+    "rescheduleSession": "Reschedule Session",
+    "reset": "Reset",
+    "retry": "Retry",
+    "reuploadVideo": "Reupload Video",
+    "sanadMinhaj": "Sanad Minhaj",
+    "save": "Save",
+    "saveChanges": "Save Changes",
+    "search": "Search",
+    "send": "Send",
+    "sendRequest": "Send Request",
+    "setSchedule": "Set Schedule",
+    "signUp": "Sign Up",
+    "skillsAndNotes": "Skills and Notes",
+    "skip": "Skip",
+    "startDate": "Start Date",
+    "submit": "Submit",
+    "subscribe": "Subscribe",
+    "suspend": "Suspend",
+    "typeSomething": "Type something here...",
+    "updateSchedule": "Update Schedule",
+    "upload": "Upload",
+    "uploadImage": "Upload image",
+    "verify": "Verify",
+    "yes": "Yes"
+  },
+  "paymentPlan": {
+    "selectPlan": "Select Plan",
+    "selected": "Selected",
+    "initialPayment": "Initial payment ({percent}%)",
+    "paymentSchedule": "Payment Schedule:",
+    "phase": "Phase",
+    "price": "Price",
+    "features": "Features",
+    "type_installment": "Installment",
+    "type_fullPayment": "Full Payment",
+    "warning": "Plan warning message"
+  },
+  "paymentPlanPage": {
+    "title": "Choose Your Payment Plan",
+    "headerTitle": "Select the perfect plan for you",
+    "headerSubtitle": "Choose between our flexible payment options designed to suit your needs",
+    "totalAmount": "Total Amount:",
+    "selectPlanToContinue": "Select a Plan to Continue",
+    "proceedToSecurePayment": "Proceed to Secure Payment",
+    "paymentSecured": "Your payment is secured and encrypted",
+    "paymentFailedTitle": "Payment Failed",
+    "paymentFailedSubtitle": "Your payment could not be processed.",
+    "retry": "Retry",
+    "paymentSuccessfulTitle": "Payment Successful!",
+    "paymentSuccessfulSubtitle": "Your payment has been processed successfully.",
+    "continueToReciter": "Continue to Reciter",
+    "invalidPaymentUrl": "Invalid payment URL",
+    "paymentFailedDefault": "Payment failed"
+  },
+  "completeProfile": {
+    "form": {
+      "completed": "Completed",
+      "pending": "Pending Completion",
+      "title": "Complete Your Profile"
+    }
+  },
+  "createNewPassword": {
+    "form": {
+      "actionText": "Back to Login",
+      "st1": "Your new password must be different from previously used password",
+      "title": "Create New Password"
+    }
+  },
+  "dialog": {
+    "exit": "Exit",
+    "exitSessionSubtitle": "Are you sure you want to leave the session?",
+    "exitSessionTitle": "Exit session",
+    "stay": "Stay"
+  },
+  "errorPage": {
+    "subTitle": "You must connect to the internet to complete this action!",
+    "title": "No Internet"
+  },
+  "forgotPassword": {
+    "form": {
+      "actionText": "Back to Login",
+      "st1": "Please Enter Your Email Address To Receive a Verification Code",
+      "title": "Forgot Password"
+    }
+  },
+  "form": {
+    "error": {
+      "availableTimes": {
+        "noAvailableTimeSlots": "No available time slots within the next 24 hours.",
+        "reciterMinmumAvailableTimes": "Please select at least {} time slots for availability.",
+        "studentMinmumAndMaximumNumOfSessionsWeekly": "Select {}-{} sessions with at least {} hours between each session."
+      },
+      "confirmPassword": {
+        "mismatch": "Passwords don't match! Try again"
+      },
+      "dateOfBirthAge": {
+        "invalidAge": "Invalid birth date. You must be at least {} years old to register"
+      },
+      "email": {
+        "invalid": "Please enter a valid email address"
+      },
+      "firstName": {
+        "length": "First name must be at least 2 characters long",
+        "lettersOnly": "Please enter a valid name"
+      },
+      "lastName": {
+        "length": "Last name must be at least 2 characters long",
+        "lettersOnly": "Please enter a valid name"
+      },
+      "middleName": {
+        "length": "Middle name must be at least 2 characters long",
+        "lettersOnly": "Please enter a valid name"
+      },
+      "missingTranslation": "Missing error translation for key",
+      "password": {
+        "length": "Password must be at least 8 characters long",
+        "missing": "Password must include at least one uppercase letter, one lowercase letter, one number, and one special character"
+      },
+      "phoneNumber": {
+        "invalidNumber": "Invalid phone number"
+      },
+      "requiredField": "The {field} field is required",
+      "unsupported": "Unsupported field Key"
+    },
+    "field": {
+      "age": "Age",
+      "bankName": "Bank Name",
+      "confirmPassword": "Confirm Password",
+      "dateOfBirth": "Date of Birth",
+      "day": "Day",
+      "document": "Document",
+      "email": "Email",
+      "firstName": "First Name",
+      "gender": "Gender",
+      "iban": "IBAN",
+      "interfaceLanguage": "Interface Language",
+      "lastName": "Last Name",
+      "learningLanguages": "Learning languages",
+      "mainLanguage": "Main Language",
+      "middleName": "Middle Name",
+      "motherTongue": "Mother Tongue",
+      "nationality": "Nationality",
+      "newPassword": "New Password",
+      "optional": "(optional)",
+      "parentalApproval": "Parental consent required for ages 13–16.",
+      "parentalConsent": "You must confirm parental or guardian approval",
+      "password": "Password",
+      "paypal": "PayPal",
+      "phoneNumber": "Phone Number",
+      "placeOfResidence": "Place of Residence",
+      "profilePicture": "Profile Picture",
+      "recitation": "Recitation",
+      "recitationType": "Recitation Type",
+      "reciterLanguage": "Reciter Language",
+      "startDate": "Start Date",
+      "swift": "SWIFT Code",
+      "teachingLanguages": "Teaching Languages",
+      "time": "Time",
+      "westernUnion": "Western Union",
+      "writeANote ": "Write a Note"
+    },
+    "uploadingSubtitle": "Loading... {}% complete, please hold on.",
+    "uploadingTitle": "Your Files Are Uploading",
+    "values": {
+      "select": "Select"
+    }
+  },
+  "hintPage": {
+    "swipeLeftRightSessions": "Swipe left or right to view other sessions"
+  },
+  "home": {
+    "announcements": {
+      "noAnnouncements": "There are no announcements currently!",
+      "title": "Announcements"
+    },
+    "connectingReciters": {
+      "reciters": "Reciters",
+      "sanadIjazah": "Sanad Ijazah",
+      "sanadItqan": "Sanad Itqan",
+      "students": "Students"
+    },
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "myPrograms": {
+      "sessionsCompleted": "{} of {} sessions completed",
+      "title": "My Programs"
+    },
+    "ourPrograms": {
+      "description": "At Sanad for Quranic Certification, we offer specialized programs designed to meet the needs of those seeking to perfect their Quranic recitation and obtain certification with a continuous chain to Prophet Muhammad (PBUH):",
+      "sessions": "Sessions",
+      "title": "Our Programs"
+    },
+    "programingList": {
+      "features": "Features",
+      "testimonials": "Testimonials"
+    },
+    "quranRecitation": {
+      "step1": {
+        "subTitle": "Start your journey by filling out the registration form.",
+        "title": "Registration"
+      },
+      "step2": {
+        "subTitle": "Select the ideal reciter to guide you in Quranic recitation.",
+        "title": "Choose a Reciter"
+      },
+      "step3": {
+        "subTitle": "Participate in interactive live sessions to learn recitation and Tajweed rules.",
+        "title": "Join Live Sessions"
+      },
+      "step4": {
+        "subTitle": "Complete your journey and receive your continuous chain certification.",
+        "title": "Get Your Sanad"
+      },
+      "title": "Quran Recitation"
+    },
+    "sanadMinhaj": {
+      "progress": "Sanad Minhaj Progress",
+      "st1": "Have you started your journey of learning Quranic recitation and Tajweed?",
+      "st2": "Your exclusive courses to enhance recitation and Tajweed skills with Sanad Minhaj, start now!"
+    },
+    "selfLearning": {
+      "discoverMore": "Discover More",
+      "now": " now!",
+      "st1": " and begin your unique educational journey with ",
+      "startYourJourney": "START YOUR JOURNEY TODAY",
+      "title": "Self Learning",
+      "withSanadMinhaj": "With Sanad Minhaj."
+    },
+    "sessionBanner": {
+      "sessionNumber": "Quran Recitation Session Number #",
+      "upcomingSession": "Upcoming Session",
+      "sessionEnded": "Session Ended",
+      "loadingNext": "Loading next session...",
+      "sessionInProgress": "Session In Progress",
+      "nextSession": "Next Session #",
+      "startsIn": "Starts in"
+    },
+    "thisWeekSessions": {
+      "quranRecitationSession": "Quran Recitation Session",
+      "title": "This Week's Sessions"
+    }
+  },
+  "imagePicker": {
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "popupTitle": "Select the image source"
+  },
+  "itemNotFound": {
+    "subTitle": "The list is currently Empty",
+    "title": "No items found"
+  },
+  "login": {
+    "form": {
+      "becomeAReciter": "Become a Reciter",
+      "forgot": "Forgot Password?",
+      "st1": "Or use your email account",
+      "st2p1": "Don't have an account?",
+      "st2p2": " Sign Up",
+      "title": "Login to Sanad"
+    }
+  },
+  "mainDrawer": {
+    "accountSettings": "Account Settings",
+    "completeBySelectingReciter": "Complete your subscription by selecting a Reciter.",
+    "helpAndSupport": "Help & Support",
+    "khitmaProgress": "Khitma Progress",
+    "logout": "Logout",
+    "myProgress": "My Progress",
+    "myRequests": "My Requests",
+    "mySchedule": "My Schedule",
+    "myStudents": "My Students",
+    "mySubscription": "My subscriptions",
+    "programs": "Programs",
+    "reciters": "Reciters",
+    "sanadIjazahProgram": "Sanad Ijazah Program",
+    "sanadMinhaj": "Sanad Minhaj",
+    "skillsAndNotes": "Skills and Notes",
+    "subscriptions": "Subscriptions",
+    "viewProfile": "View Profile"
+  },
+  "messingCenter": {
+    "selectAContact": "Select a contact",
+    "title": "Messing Center"
+  },
+  "modalBottomSheet": {
+    "subTitle": {
+      "st1": "Your request has been submitted successfully. You will receive a message with the result.",
+      "st10": "Are you sure you want to delete your account?",
+      "st11": "You must be a student of this reciter before contacting them",
+      "st12": "You’ve reached the maximum number of session cancellations allowed.",
+      "st13": "Your session has been canceled",
+      "st14": "Your lessons schedule has been updated.",
+      "st15": "There is a student scheduled in this time slot!\n\nPlease resolve this conflict first",
+      "st16": "Your extra session request has been sent.",
+      "st17": "Are you sure you want to suspend your khitma?",
+      "st18": "Are you sure you want to update your account information?",
+      "st19": "Your request has been submitted.",
+      "st20": "You currently do not have the necessary permissions to perform this action.",
+      "st2": "Your account is created.",
+      "st3": "You must subscribe to contact the reciter",
+      "st4": "You must subscribe to set your schedule",
+      "st5": "Your schedule has been setup",
+      "st6": "Your updated schedule request has been sent.",
+      "st7": "Are you sure you want to stop receiving new students temporarily?",
+      "st8": "This session has started! \n Please join now",
+      "st9": "Are you sure you want to cancel this session?"
+    },
+    "title": {
+      "alright": "Alright!",
+      "cancelSession": "Cancel Session",
+      "conflict": "Conflict",
+      "congrats": "Congrats!",
+      "deleteAccount": "Delete Account!",
+      "great": "Great!",
+      "khitmaSuspension": "Khitma Suspension",
+      "newStudents": "New Students",
+      "ongoingSession": "Ongoing Session",
+      "schedule": "Schedule!",
+      "subscribe": "Subscribe!"
+    }
+  },
+  "myRequests": {
+    "filters": {
+      "note": "Note:",
+      "receivedBy": "Received by:",
+      "requestId": "Request ID",
+      "requestType": "Request type",
+      "requester": "Requester",
+      "status": "Status"
+    },
+    "newTime": "New time",
+    "previousTime": "Previous time",
+    "scheduleNote": "Please select a start date for the student schedule that aligns with your availability.",
+    "title": "My Requests"
+  },
+  "notes": {
+    "myNotes": "My Notes",
+    "noNotesFound": "No notes have been written in the live sessions",
+    "reciterNotes": "Reciter Notes",
+    "studentNotes": "Student Notes"
+  },
+  "notificationsActions": {
+    "actionCenter": "Action Center",
+    "markAllAsRead": "Mark all as Read",
+    "notifcations": "Notifications"
+  },
+  "readingProgress": {
+    "completedSessions": "Completed Sessions",
+    "estimatedEndDate": "Estimated End Date:",
+    "juz": "Juz'",
+    "khitmaStartDate": "Khitma Start Date:",
+    "page": "Page",
+    "recitation": "The recitation of",
+    "surah": "Surah",
+    "title": "Reading Progress",
+    "verse": "Verse"
+  },
+  "reciter": {
+    "completeProfile": {
+      "availableTimes": {
+        "st1": "Select your available time slots so that students can request a session with you accordingly.",
+        "tableCaption": "Select Your Available Times",
+        "title": "Available Times"
+      },
+      "introductoryVideo": {
+        "st1": "Produce a short two-minute video exhibiting the recitation and showcasing exemplary recitation skills.",
+        "st2": "(Please note that your introductory video will appear for all users.)",
+        "title": "Introductory Video",
+        "video": {
+          "step1": "Step 1: Personal Introduction",
+          "step2": "Step 2: Quran Reading ",
+          "step3": "Step 3: Quranic Verse Reading",
+          "stp1": "Personal Introduction",
+          "stp2": "Quran Reading",
+          "stp3": "Quranic Verse Reading",
+          "title": "This video will contain:"
+        }
+      },
+      "paymentInformation": {
+        "noteSt1": "Note: Payments will be processed within 7 working days",
+        "st1": "Choose your preferred payment method and proceed by filling in your information.",
+        "title": "Payment Information",
+        "type1": "Bank Transfer",
+        "type2": "Paypal",
+        "type3": "Western Union"
+      },
+      "profileCompletion": {
+        "description": "Write a description about yourself",
+        "guide1P1": "Agreement to ",
+        "guide1P2": "the employment policies.",
+        "guide2P1": "Agreement to adhere to ",
+        "guide2P2": "the teaching and recitation methodology.",
+        "passowrdTitle": "Create Password",
+        "profilePicture": {
+          "st1": "This picture will appear in the profile page for all users.",
+          "title": "Upload your Profile Picture"
+        },
+        "st1": "Complete your personal information by adding your profile picture and creating your password",
+        "title": "Profile Completion"
+      },
+      "step1": "Profile Completion",
+      "step2": "Introductory Video",
+      "step3": "Payment Information",
+      "step4": "Available Times",
+      "title": "Create Account",
+      "welcomeCard": {
+        "recitation": "The recitation of",
+        "welcome": "Welcome"
+      }
+    },
+    "khitmaProgress": {
+      "availableTime": "Available time",
+      "availableTimeDescription": "The percentage of occupied time slots compared to available time slots.",
+      "bottomSheet": {
+        "extraSession": "(Extra Session)",
+        "openQuran": "Open Quran",
+        "requestNewSession": "Request New Session",
+        "skillsandNotes": "Skills and Notes",
+        "updateSchedule": "Update Schedule",
+        "viewStudentProfile": "View Student Profile"
+      },
+      "completedSessions": "Completed Sessions",
+      "completedSessionsDescription": "Percentage of completion for each Khitma",
+      "noStudentAvailable": "No Student Available",
+      "numberOfAbsence ": "Number of absence ",
+      "numberOfKhitmat": "Number of khitmat",
+      "numberOfSuspendedKhitmat": "Number of Suspended Khitmat",
+      "students": "Students",
+      "title": "Khitma Progress"
+    },
+    "profile": {
+      "receiveStudents": "Receive Students",
+      "unavailable": "Unavailable"
+    },
+    "submitJob": {
+      "certificates": {
+        "certificatesAndRecitations": "Certificates & Recitations",
+        "otherCertificates": "Upload other certificates or licenses related to the science of Tajweed.",
+        "recitationDocument": "The recitation of",
+        "st1": "Please upload your certification images of of your program ID by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+        "title": "Certificates"
+      },
+      "personal": {
+        "title": "Personal Info"
+      },
+      "step1": "Personal Info",
+      "step2": "Upload Your ID",
+      "step3": "Certificates",
+      "title": "Create Account",
+      "uploadID": {
+        "back": "Back Side",
+        "front": "Front Side",
+        "label": "You can upload alternative documents",
+        "st1": "Please upload images of both sides of your national ID by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+        "title": "Upload your verification document"
+      }
+    }
+  },
+  "registration": {
+    "form": {
+      "becomeAReciter": "Become a Reciter",
+      "st1": "Or use your email for registration",
+      "st2p1": "Already have an account? ",
+      "st2p2": "Login",
+      "title": "Sign up with"
+    }
+  },
+  "sessionDetails": {
+    "bookmarkVerse": "Bookmark Verse",
+    "inProgress": "In-progress",
+    "numberOfPages": "Number of pages",
+    "pages": "Pages",
+    "sessionConfirmation": {
+      "step1": {
+        "stepTitle": "Session Completion",
+        "subTitle": "Note: If you select 'No', the session will be marked as incomplete. You will then need to schedule a makeup session!",
+        "title": "Is this session completed?"
+      },
+      "step2": {
+        "stepTitle": "Completed Pages",
+        "title": "Mark the completed pages during the session"
+      }
+    },
+    "sessionDateTime": "Session Date/Time",
+    "sessionDuration": "Session duration",
+    "sessionRecord": "Session Record",
+    "sessionStatus": "Session status",
+    "sessionVideoProcessing": "Session video is currently processing, please check again later",
+    "title": "Session Details"
+  },
+  "skills": {
+    "skillsNotes": "Skills & Notes",
+    "tittle": "Skills"
+  },
+  "snackbar": {
+    "accountDeletion": "Your account is deleted successfully!",
+    "completeSession": "The session has been marked as complete.",
+    "emailVerified": "Your email has been successfully verified.",
+    "incompleteSession": "The session has been marked as incomplete.",
+    "khitmaSuspension": "Your khitma request has been sent successfully!",
+    "passwordReset": "Your password has been reset successfully! You can now log in with your new password",
+    "phoneNumberIsExist": "Phone Number already exist",
+    "reciterAddedToFav": "Reciter has been added to favorite list",
+    "reciterContactInfoNotFound": "Reciter contact info not found!",
+    "reciterRemovedFromFav": "Reciter has been removed from favorite list",
+    "requestApproved": "The request has been approved",
+    "requestCanceled": "The request has been canceled",
+    "requestInfoNotFound": "Request info not found!",
+    "requestRejected": "The request has been rejected",
+    "unknownActionType": "Unknown action type!"
+  },
+  "student": {
+    "myProgress": {
+      "AverageOfCompletedPagesInSession": "Average of completed pages in session",
+      "AverageOfReadingMinutes": "Average of reading minutes",
+      "NumberOfAbsence": "Number of absence",
+      "NumberOfCancelledSessions": "Number of cancelled sessions",
+      "NumberOfLatenessMinutes": "Number of lateness minutes",
+      "NumberOfPassedSkills": "Number of passed skills",
+      "NumberOfUnpassedSkills": "Number of unpassed skills",
+      "pages": "Pages",
+      "pagesDescription": "Percentage of completed pages relative to the total pages of the Quran",
+      "sessions": "Sessions",
+      "sessionsDescription": "Percentage of completed sessions relative to the total sessions numbers",
+      "title": "My Progress",
+      "week": "week {}"
+    },
+    "profile": {
+      "birthday": "Birthday:",
+      "gender": "Gender:",
+      "motherLanguage": "Mother Language:",
+      "phoneNumber": "Phone Number:",
+      "residentCountry": "Resident Country:",
+      "teachingLanguages": "Teaching Languages:",
+      "title": "My Profile",
+      "studentProfile": "Student Profile"
+
+    },
+    "scheduling": {
+      "completeProfile": {
+        "form": {
+          "completed": "Completed",
+          "pending": "Pending Completion",
+          "title": "Complete Your Profile"
+        }
+      },
+      "createNewPassword": {
+        "form": {
+          "actionText": "Back to Login",
+          "st1": "Your new password must be different from previously used password",
+          "title": "Create New Password"
+        }
+      },
+      "forgotPassword": {
+        "form": {
+          "actionText": "Back to Login",
+          "st1": "Please Enter Your Email Address To Receive a Verification Code",
+          "title": "Forgot Password"
+        }
+      },
+      "home": {
+        "announcements": {
+          "noAnnouncements": "There are no announcements currently!",
+          "title": "Announcements"
+        },
+        "connectingReciters": {
+          "reciters": "Reciters",
+          "sanadIjazah": "Sanad Ijazah",
+          "sanadItqan": "Sanad Itqan",
+          "students": "Students"
+        },
+        "dashboard": {
+          "title": "Dashboard"
+        },
+        "myPrograms": {
+          "sessionsCompleted": "{} of {} sessions completed",
+          "title": "My Programs"
+        },
+        "ourPrograms": {
+          "description": "At Sanad for Quranic Certification, we offer specialized programs designed to meet the needs of those seeking to perfect their Quranic recitation and obtain certification with a continuous chain to Prophet Muhammad (PBUH):",
+          "sessions": "Sessions",
+          "title": "Our Programs"
+        },
+        "programingList": {
+          "features": "Features",
+          "testimonials": "Testimonials"
+        },
+        "quranRecitation": {
+          "step1": {
+            "subTitle": "Start your journey by filling out the registration form.",
+            "title": "Registration"
+          },
+          "step2": {
+            "subTitle": "Select the ideal reciter to guide you in Quranic recitation.",
+            "title": "Choose a Reciter"
+          },
+          "step3": {
+            "subTitle": "Participate in interactive live sessions to learn recitation and Tajweed rules.",
+            "title": "Join Live Sessions"
+          },
+          "step4": {
+            "subTitle": "Complete your journey and receive your continuous chain certification.",
+            "title": "Get Your Sanad"
+          },
+          "title": "Quran Recitation"
+        },
+        "sanadMinhaj": {
+          "st1": "Have you started your journey of learning Quranic recitation and Tajweed?",
+          "st2": "Your exclusive courses to enhance recitation and Tajweed skills with Sanad Minhaj, start now!"
+        },
+        "selfLearning": {
+          "discoverMore": "Discover More",
+          "now": " now!",
+          "st1": " and begin your unique educational journey with ",
+          "startYourJourney": "START YOUR JOURNEY TODAY",
+          "title": "Self Learning",
+          "withSanadMinhaj": "With Sanad Minhaj."
+        },
+        "sessionBanner": {
+          "sessionNumber": "Quran Recitation Session Number #",
+          "upcomingSession": "Upcoming Session"
+        },
+        "thisWeekSessions": {
+          "quranRecitationSession": "Quran Recitation Session",
+          "title": "This Week's Sessions"
+        }
+      },
+      "login": {
+        "form": {
+          "becomeAReciter": "Become a Reciter",
+          "forgot": "Forgot Password?",
+          "st1": "Or use your email account",
+          "st2p1": "Don't have an account?",
+          "st2p2": " Sign Up",
+          "title": "Login to Sanad"
+        }
+      },
+      "mainDrawer": {
+        "accountSettings": "Account Settings",
+        "completeBySelectingReciter": "Complete your subscription by selecting a Reciter.",
+        "helpAndSupport": "Help & Support",
+        "khitmaProgress": "Khitma Progress",
+        "logout": "Logout",
+        "myProgress": "My Progress",
+        "myRequests": "My Requests",
+        "mySchedule": "My Schedule",
+        "myStudents": "My Students",
+        "programs": "Programs",
+        "reciters": "Reciters",
+        "sanadIjazahProgram": "Sanad Ijazah Program",
+        "sanadMinhaj": "Sanad Minhaj",
+        "skillsAndNotes": "Skills and Notes",
+        "subscriptions": "Subscriptions",
+        "viewProfile": "View Profile"
+      },
+      "myAvailableTime": {
+        "days": "Days",
+        "loadingStm": "Seeking Reciters Who Align with your goals.",
+        "subTitle": "You can select multiple options",
+        "times": "Times",
+        "title": "What are your available Times?"
+      },
+      "myRequests": {
+        "filters": {
+          "note": "Note:",
+          "receivedBy": "Received by:",
+          "requestId": "Request ID",
+          "requestType": "Request type",
+          "requester": "Requester",
+          "status": "Status"
+        },
+        "newTime": "New time",
+        "previousTime": "Previous time",
+        "scheduleNote": "Please select a start date for the student schedule that aligns with your availability.",
+        "title": "My Requests"
+      },
+      "reciter": {
+        "completeProfile": {
+          "availableTimes": {
+            "st1": "Select your available time slots so that students can request a session with you accordingly.",
+            "tableCaption": "Select Your Available Times",
+            "title": "Available Times"
+          },
+          "introductoryVideo": {
+            "st1": "Produce a short two-minute video exhibiting the recitation and showcasing exemplary recitation skills.",
+            "st2": "(Please note that your introductory video will appear for all users.)",
+            "title": "Introductory Video",
+            "video": {
+              "step1": "Step 1: Personal Introduction",
+              "step2": "Step 2: Quran Reading ",
+              "step3": "Step 3: Quranic Verse Reading",
+              "stp1": "Personal Introduction",
+              "stp2": "Quran Reading",
+              "stp3": "Quranic Verse Reading",
+              "title": "This video will contain:"
+            }
+          },
+          "paymentInformation": {
+            "noteSt1": "Note: Payments will be processed within 7 working days",
+            "st1": "Choose your preferred payment method and proceed by filling in your information.",
+            "title": "Payment Information",
+            "type1": "Bank Transfer",
+            "type2": "Paypal",
+            "type3": "Western Union"
+          },
+          "profileCompletion": {
+            "description": "Write a description about yourself",
+            "guide1P1": "Agreement to ",
+            "guide1P2": "the employment policies.",
+            "guide2P1": "Agreement to adhere to ",
+            "guide2P2": "the teaching and recitation methodology.",
+            "passowrdTitle": "Create Password",
+            "profilePicture": {
+              "st1": "This picture will appear in the profile page for all users.",
+              "title": "Upload your Profile Picture"
+            },
+            "st1": "Complete your personal information by adding your profile picture and creating your password",
+            "title": "Profile Completion"
+          },
+          "step1": "Profile Completion",
+          "step2": "Introductory Video",
+          "step3": "Payment Information",
+          "step4": "Available Times",
+          "title": "Create Account",
+          "welcomeCard": {
+            "recitation": "The recitation of",
+            "welcome": "Welcome"
+          }
+        },
+        "khitmaProgress": {
+          "availableTime": "Available time",
+          "availableTimeDescription": "The percentage of occupied time slots compared to available time slots.",
+          "bottomSheet": {
+            "extraSession": "(Extra Session)",
+            "openQuran": "Open Quran",
+            "requestNewSession": "Request New Session",
+            "skillsandNotes": "Skills and Notes",
+            "updateSchedule": "Update Schedule",
+            "viewStudentProfile": "View Student Profile"
+          },
+          "completedSessions": "Completed Sessions",
+          "completedSessionsDescription": "Percentage of completion for each Khitma",
+          "noStudentAvailable": "No Student Available",
+          "numberOfAbsence ": "Number of absence ",
+          "numberOfKhitmat": "Number of khitmat",
+          "numberOfSuspendedKhitmat": "Number of Suspended Khitmat",
+          "students": "Students",
+          "title": "Khitma Progress"
+        },
+        "profile": {
+          "receiveStudents": "Receive Students",
+          "unavailable": "Unavailable"
+        },
+        "submitJob": {
+          "certificates": {
+            "otherCertificates": "Upload other certificates or licenses related to the science of Tajweed.",
+            "recitationDocument": "The recitation of",
+            "st1": "Please upload your certification images of of your program ID by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+            "title": "Certificates"
+          },
+          "personal": {
+            "title": "Personal Info"
+          },
+          "step1": "Personal Info",
+          "step2": "Upload Your ID",
+          "step3": "Certificates",
+          "title": "Create Account",
+          "uploadID": {
+            "back": "Back Side",
+            "front": "Front Side",
+            "label": "You can upload alternative documents",
+            "st1": "Please upload images of both sides of your national ID by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+            "title": "Upload your verification document"
+          }
+        }
+      },
+      "reciterDetails": {
+        "availableTimes": {
+          "contactReciter": "Contact Reciter",
+          "note": "Note: ",
+          "noteStm": "Schedule 2–3 sessions per week with a 6-hour gap between each session",
+          "noteStmLiveSession": "Choose from the available time slots to book a live session with the reciter.",
+          "noteStm2": "(The times shown are displayed in your local time zone)",
+          "receiveStudents": "Receive Students",
+          "rectierAvailableTimes": "The reciter’s available times.",
+          "title": "Set your weekly schedule.",
+          "titleLiveSession": "Set your Live Session time."
+        },
+        "old": "Years Old",
+        "recitation": "The recitation of",
+        "statistics": {
+          "attendance": "Attendance",
+          "experience": "Experience",
+          "sessions": "Sessions",
+          "students": "Students"
+        },
+        "title": "Reciter Details"
+      },
+      "reciterListing": {
+        "addPage": "Add Page",
+        "back": "Back",
+        "bookANewSession": "Book a New Session",
+        "cancel": "Cancel",
+        "comingSoon": "Coming Soon",
+        "confirm": "Confirm",
+        "delete": "Delete",
+        "deleteAccount": "Delete Account",
+        "drawer": {
+          "title": "Filters"
+        },
+        "edit": "Edit",
+        "filters": "Filters",
+        "goToSession": "Go to Session",
+        "goToSkillsAndNotes": "Go To Skills & Notes",
+        "join": "Join",
+        "no": "No",
+        "ok": "Ok",
+        "preview": "Preview",
+        "recitersList": "Reciters List",
+        "requestChange": "Request Change",
+        "rescheduleSession": "Reschedule Session",
+        "sanadMinhaj": "Sanad Minhaj",
+        "search": "Search",
+        "skillsAndNotes": "Skills and Notes",
+        "subTitle": "Experts in Quranic recitation and Ijazah",
+        "title": "Reciters",
+        "typeSomething": "Type something here...",
+        "yes": "Yes"
+      },
+      "registration": {
+        "form": {
+          "becomeAReciter": "Become a Reciter",
+          "st1": "Or use your email for registration",
+          "st2p1": "Already have an account? ",
+          "st2p2": "Login",
+          "title": "Sign up with"
+        }
+      },
+      "sessionDetails": {
+        "bookmarkVerse": "Bookmark Verse",
+        "inProgress": "In-progress",
+        "numberOfPages": "Number of pages",
+        "pages": "Pages",
+        "sessionConfirmation": {
+          "step1": {
+            "stepTitle": "Session Completion",
+            "subTitle": "Note: If you select 'No', the session will be marked as incomplete. You will then need to schedule a makeup session!",
+            "title": "Is this session completed?"
+          },
+          "step2": {
+            "stepTitle": "Completed Pages",
+            "title": "Mark the completed pages during the session"
+          }
+        },
+        "sessionDateTime": "Session Date/Time",
+        "sessionDuration": "Session duration",
+        "sessionEndedMessage": "This session has ended. Please check your schedule for upcoming sessions or review the recorded session.",
+        "sessionEndedTitle": "Session Ended",
+        "sessionRecord": "Session Record",
+        "sessionStatus": "Session status",
+        "sessionVideoProcessing": "Session video is currently processing, please check again later",
+        "title": "Session Details"
+      },
+      "student": {
+        "myProgress": {
+          "AverageOfCompletedPagesInSession": "Average of completed pages in session",
+          "AverageOfReadingMinutes": "Average of reading minutes",
+          "NumberOfAbsence": "Number of absence",
+          "NumberOfCancelledSessions": "Number of cancelled sessions",
+          "NumberOfLatenessMinutes": "Number of lateness minutes",
+          "NumberOfPassedSkills": "Number of passed skills",
+          "NumberOfUnpassedSkills": "Number of unpassed skills",
+          "pages": "Pages",
+          "pagesDescription": "Percentage of completed pages relative to the total pages of the Quran",
+          "sessions": "Sessions",
+          "sessionsDescription": "Percentage of completed sessions relative to the total sessions numbers",
+          "title": "My Progress",
+          "week": "week {}"
+        },
+        "profile": {
+          "birthday": "Birthday:",
+          "gender": "Gender:",
+          "motherLanguage": "Mother Language:",
+          "phoneNumber": "Phone Number:",
+          "residentCountry": "Resident Country:",
+          "teachingLanguages": "Teaching Languages:",
+          "title": "My Profile"
+        },
+        "rescheduling": {
+          "mySchedule": {
+            "bottomSheet": {
+              "subTitle": "Current Sessions",
+              "title": "Select a session to modify:"
+            },
+            "calendarTitle": "My Sessions",
+            "sessionTypes": {
+              "extraSession": "Extra Session",
+              "incompleteSession": "Incomplete Session",
+              "makeupSession": "Makeup Session",
+              "normalSession": "Normal Session",
+              "rescheduledSession": "Rescheduled Session"
+            },
+            "title": "My Schedule"
+          },
+          "reschedule": {
+            "chooseDay": "Choose a suggestion days within this week.",
+            "chooseTime": "Choose the preferred time.",
+            "extraSessionTitle": "Extra Session",
+            "formTitle": "Current Session",
+            "makeupOrExtraSessionNote": "When scheduling an extra session, you must submit your request at least 24 hours in advance.",
+            "makeupSessionTitle": "Makeup Session",
+            "mins": "Mins",
+            "rescheduleSessionNote": "Select a time range to modify the schedule:",
+            "rescheduleSessionTitle": "Reschedule a session for one time",
+            "selectNote": "You can select up to 3 suggestions.",
+            "sessionName": "Quran Recitation Session"
+          },
+          "updateSchedule": {
+            "cardTitle": "Change the Time",
+            "clear": "Clear",
+            "formTitle": "Change Schedule",
+            "new": "New Selection",
+            "prev": "Previous Selection",
+            "selectNote": "Select a time range to modify the schedule:",
+            "title": "Update Schedule"
+          }
+        },
+        "scheduling": {
+          "myAvailableTime": {
+            "days": "Days",
+            "loadingStm": "Seeking Reciters Who Align with your goals.",
+            "subTitle": "You can select multiple options",
+            "times": "Times",
+            "title": "What are your available Times?"
+          },
+          "reciterDetails": {
+            "availableTimes": {
+              "contactReciter": "Contact Reciter",
+              "note": "Note: ",
+              "noteStm": "Schedule 2–3 sessions per week with a 6-hour gap between each session.",
+              "noteStm2": "(The times shown are displayed in your local time zone)",
+              "receiveStudents": "Receive Students",
+              "rectierAvailableTimes": "The reciter’s available times.",
+              "title": "Set your weekly schedule."
+            },
+            "old": "Years Old",
+            "recitation": "The recitation of",
+            "statistics": {
+              "attendance": "Attendance",
+              "experience": "Experience",
+              "sessions": "Sessions",
+              "students": "Students"
+            },
+            "title": "Reciter Details"
+          },
+          "reciterListing": {
+            "drawer": {
+              "title": "Filters"
+            },
+            "filters": "Filters",
+            "search": "Search",
+            "subTitle": "Experts in Quranic recitation and Ijazah",
+            "title": "Reciters"
+          }
+        }
+      },
+      "subscription": {
+        "documents": {
+          "birthCertificate": "Birth Certificate",
+          "birthCertificate_under18": "(Under 18 years)",
+          "drivingLicense": "Driving License",
+          "identityCard": "Identity Card",
+          "passport": "Passport"
+        },
+        "evaluationTestGuidelines": {
+          "st1": "Ensure a suitable background without any distractions and with good lighting.",
+          "st2": "Make sure to record in a quiet place without any noise or anyone else who might distract you.",
+          "st3": "Make sure to dress appropriately and maintain a neat appearance.",
+          "st4": "Sit in a proper posture, lift your head to face the camera, and ensure your mouth is directed towards the microphone.",
+          "st5": "Use the camera and microphone test feature to ensure they are working properly.",
+          "st6": "Press the record button and start reciting the verses that appear in front of you with proper Tajweed and at the highest level of accuracy you can achieve.",
+          "st7": "After completing the recitation, press the stop recording button.",
+          "st8": "You can listen to the recorded clip and re-record it if needed before sending it.",
+          "subTitle": "Before the evaluation test",
+          "title": "Guidelines and Instructions"
+        },
+        "personal": {
+          "checkbox": "I confirm that approval from a parent or guardian has been obtained",
+          "title": "Personal Info"
+        },
+        "program": {
+          "sanadIjazah": "Sanad Ijazah",
+          "sanadItqan": "Sanad Itqan",
+          "step1": "Personal Info",
+          "step2": "Upload Your ID",
+          "step3": "Test Time",
+          "subTitle": "One Time Payment"
+        },
+        "testTime": {
+          "guideP1": "Agree to ",
+          "guideP2": "the guidelines and instructions",
+          "guideP3": " for the evaluation video.",
+          "st1": "Verses from the Holy Quran will appear before you. Start recording and recite the verses clearly.",
+          "surah": "Surah",
+          "title": "Evaluation Test",
+          "verses": "verses"
+        },
+        "uploadID": {
+          "back": "Back Side",
+          "birthCertificate": "Please upload an image of your birth certificate by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+          "drivingLicense": "Please upload an image of your driving license by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+          "front": "Front Side",
+          "identityCard": "Please upload images of both sides of your identity card by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+          "label": "You can upload alternative documents",
+          "passport": "Please upload an image of your passport by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+          "title": "Upload your verification document"
+        }
+      },
+      "verification": {
+        "form": {
+          "actionText": "Logout",
+          "st1": "Please Enter The 6 Digit Code Sent To ",
+          "title": "Verify Your Email"
+        }
+      }
+    }
+  },
+  "subscription": {
+    "documents": {
+      "birthCertificate": "Birth Certificate",
+      "birthCertificate_under18": "(Under 18 years)",
+      "drivingLicense": "Driving License",
+      "identityCard": "Identity Card",
+      "passport": "Passport"
+    },
+    "evaluationTestGuidelines": {
+      "st1": "Ensure a suitable background without any distractions and with good lighting.",
+      "st2": "Make sure to record in a quiet place without any noise or anyone else who might distract you.",
+      "st3": "Make sure to dress appropriately and maintain a neat appearance.",
+      "st4": "Sit in a proper posture, lift your head to face the camera, and ensure your mouth is directed towards the microphone.",
+      "st5": "Use the camera and microphone test feature to ensure they are working properly.",
+      "st6": "Press the record button and start reciting the verses that appear in front of you with proper Tajweed and at the highest level of accuracy you can achieve.",
+      "st7": "After completing the recitation, press the stop recording button.",
+      "st8": "You can listen to the recorded clip and re-record it if needed before sending it.",
+      "subTitle": "Before the evaluation test",
+      "title": "Guidelines and Instructions"
+    },
+    "personal": {
+      "checkbox": "I confirm that approval from a parent or guardian has been obtained",
+      "title": "Personal Info"
+    },
+    "program": {
+      "TotalAnnount": "Total Amount",
+      "paymentPage": "Payment Page",
+      "sanadIjazah": "Sanad Ijazah",
+      "sanadItqan": "Sanad Itqan",
+      "step1": "Personal Info",
+      "step2": "Upload Your ID",
+      "step3": "Test Time",
+      "subTitle": "One Time Payment"
+    },
+    "status": {
+      "approvedStatusDescribtion": "Your subscription has been approved successfully.",
+      "pendingStatusDescribtion": "Your subscription request is currently pending approval.",
+      "proceedToPaymentBtn": "Proceed to Payment",
+      "rejectionReason": "Rejection Reason",
+      "rejectionReasonDescription": "The rejection was due to the evaluation video, as the Tilawah (recitation) of the Qur’an did not meet the required standard."
+    },
+    "subscriptionStatus": {
+      "updateInformationStatusValidation": "Please complete your subscription before editing your information."
+    },
+    "testTime": {
+      "contactNow": "Contact Now",
+      "guideP1": "Agree to ",
+      "guideP2": "the guidelines and instructions",
+      "guideP3": " for the evaluation video.",
+      "liveSessionOption": "live Session",
+      "livesessionDescription": "If you prefer a live assessment, you can choose a reciter and schedule a time",
+      "recordingConsent": "Record video without opening the camera.",
+      "st1": "Verses from the Holy Quran will appear before you. Start recording and recite the verses clearly.",
+      "surah": "Surah",
+      "title": "Evaluation Test",
+      "verses": "verses",
+      "videoOption": "Record Video",
+      "whatsAppSchedule": "Schedule via WhatsApp"
+    },
+    "uploadID": {
+      "back": "Back Side",
+      "birthCertificate": "Please upload an image of your birth certificate by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+      "drivingLicense": "Please upload an image of your driving license by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+      "front": "Front Side",
+      "identityCard": "Please upload images of both sides of your identity card by clicking the 'Upload' buttons below. Make sure the images are clear and show all details.",
+      "label": "You can upload alternative documents",
+      "passport": "Please upload an image of your passport by clicking the 'Upload' button below. Make sure the image is clear and show all details.",
+      "title": "Upload your verification document"
+    }
+  },
+  "timeAgo": {
+    "aDay": "1 day ago",
+    "aboutAMinute": "1 min ago",
+    "aboutAMonth": "1 month ago",
+    "aboutAYear": "1 year ago",
+    "aboutAnHour": "1 hour ago",
+    "ago": "ago",
+    "justNow": "just now",
+    "value": "{} {}"
+  },
+  "timePeriods": {
+    "daytime": "Daytime",
+    "eveningAndNight": "Evening and Night",
+    "morning": "Morning"
+  },
+  "times": {
+    "days": "days",
+    "from": "From",
+    "hrs": "hrs",
+    "min": "min",
+    "minutes": "Minutes",
+    "sec": "sec",
+    "to": "To"
+  },
+  "verification": {
+    "form": {
+      "actionText": "Logout",
+      "st1": "Please Enter The 6 Digit Code Sent To ",
+      "title": "Verify Your Email"
+    }
+  }
+}

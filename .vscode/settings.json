@@ -1,0 +1,17 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "dart.flutterRunAdditionalArgs": [
+    "--no-enable-impeller"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.27.3"
+}

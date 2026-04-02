@@ -1,0 +1,1217 @@
+{
+  "accountSettings": {
+    "accountDeletion": {
+      "stm1": "حذف حسابك هو إجراء دائم. بمجرد النقر على \"حذف الحساب\"، سيتم إلغاء اشتراكك في المنصة على الفور، وستتم إزالة جميع صلاحيات الوصول إلى المنصة بشكل دائم. لن تتمكن من القراءة معنا مرة أخرى إلا إذا تقدمت بطلب جديد من خلال مقابلة تقييم جديدة، كما لو كنت تنضم إلى المنصة لأول مرة. يرجى التأكد من أن هذا هو الإجراء الذي ترغب في اتخاذه، لأنه لا يمكن التراجع عنه.",
+      "title": "حذف الحساب"
+    },
+    "changePassword": {
+      "confirmPassword": "تأكيد كلمة المرور",
+      "newPassword": "كلمة المرور الجديدة",
+      "oldPassword": "كلمة المرور القديمة",
+      "title": "تغيير كلمة المرور"
+    },
+    "khitmaSuspension": {
+      "stm1": "لطلب تعليق مؤقت لختمتك، والذي يسمح لك بإيقاف ختمتك لفترة محددة، يرجى اختيار السبب من القائمة المنسدلة أدناه. سيتم مراجعة طلبك ومعالجته من قبل فريقنا الإداري. سيتم إخطارك بحالة طلبك عبر البريد الإلكتروني.",
+      "suspenesionDuration": "الفترة المطلبة",
+      "suspensionReason": "سبب التعليق",
+      "title": "تعليق الختمة"
+    },
+    "personalInformation": {
+      "documentType": "نوع المستند",
+      "documents": "المستندات",
+      "replaceDocument": "استبدل المستند",
+      "title": "المعلومات الشخصية",
+      "updateInformation": "!تحديث المعلومات"
+    },
+    "preferences": {
+      "title": "التفضيلات"
+    },
+    "title": "إعدادات الحساب"
+  },
+  "apiError": {
+    "connection": "الرجاء التحقق من اتصال الانترنت الخاص بك",
+    "server": "حدث خطأ ما، يرجى المحاولة لاحقا",
+    "sessionExpired": "انتهت صلاحية الجلسة. يرجى تسجيل الدخول مرة أخرى"
+  },
+  "bookmarks": {
+    "noNotesFound": "لم يتم اختيار أي إشارات مرجعية في الجلسات المباشرة",
+    "title": "الآيات المحفوظة"
+  },
+  "button": {
+    "add": "إضافة",
+    "addPage": "اضافة صفحة",
+    "apply": "تطبيق",
+    "approveRequest": "الموافقة على الطلب",
+    "approveSchedule": "الموافقة على الجدول",
+    "approved": "موافق عليه",
+    "attach": "ارفاق ملف",
+    "back": "رجوع",
+    "bookANewSession": "احجز جلسة جديدة",
+    "browse": "تصفح",
+    "cancel": "إلغاء",
+    "cancelRequest": "إلغاء الطلب",
+    "cancelSession": "إلغاء الجلسة",
+    "comingSoon": "قريباً",
+    "confirm": "تأكيد",
+    "continue": "متابعة",
+    "delete": "حذف",
+    "deleteAccount": "حذف الحساب",
+    "done": "اتمام",
+    "edit": "تعديل",
+    "editAvailability": "تعديل الاوقات المتاحة",
+    "editProfile": "تعديل الملف الشخصي",
+    "extraSession": "جلسة إضافية",
+    "goToHomePage": "الانتقال إلى الصفحة الرئيسية",
+    "goToLogin": "الانتقال إلى صفحة تسجيل الدخول",
+    "goToSession": "الذهاب إلى الجلسة",
+    "goToSkillsAndNotes": "الذهاب إلى المهارات والملاحظات",
+    "goToSubscriptions": "الانتقال إلى صفحة الاشتراك",
+    "join": "انضم",
+    "login": "تسجيل الدخول",
+    "moreDetails": "مزيد من التفاصيل",
+    "newSession": "جلسة جديدة",
+    "next": "التالي",
+    "no": "لا",
+    "ok": "حسنًا",
+    "openQuran": "افتح القرآن",
+    "pending": "معلق",
+    "preview": "معاينة",
+    "reRecord": "إعادة التسجيل",
+    "recitersList": "قائمة المقرئين",
+    "record": "تسجيل",
+    "rejectRequest": "رفض الطلب",
+    "rejected": "رفض",
+    "replace": "استبدال",
+    "requestChange": "طلب تغيير",
+    "rescheduleSession": "إعادة جدولة الجلسة",
+    "reset": "اعادة",
+    "retry": "اعادة المحاولة",
+    "reuploadVideo": "إعادة رفع الفيديو",
+    "sanadMinhaj": "سند منهاج",
+    "save": "حفظ",
+    "saveChanges": "حفظ التغييرات",
+    "search": "بحث",
+    "send": "إرسال",
+    "sendRequest": "إرسال الطلب",
+    "setSchedule": "تحديد الجدول",
+    "signUp": "تسجيل",
+    "skillsAndNotes": "المهارات والملاحظات",
+    "skip": "تخطي",
+    "startDate": "تاريخ البدء",
+    "submit": "إرسال",
+    "subscribe": "اشتراك",
+    "suspend": "تعليق",
+    "typeSomething": "اكتب شيئًا هنا...",
+    "updateSchedule": "تحديث الجدول",
+    "upload": "تحميل",
+    "uploadImage": "تحميل الصورة",
+    "verify": "تحقق",
+    "yes": "نعم"
+  },
+  "paymentPlan": {
+    "selectPlan": "اختر الخطة",
+    "selected": "تم الاختيار",
+    "initialPayment": "الدفع المبدئي (%{percent})",
+    "paymentSchedule": "جدول الدفع:",
+    "phase": "المرحلة",
+    "price": "السعر",
+    "features": "المميزات",
+    "type_installment": "تقسيط",
+    "type_fullPayment": "دفع كامل",
+    "warning": "رسالة تحذير الخطة"
+  },
+  "paymentPlanPage": {
+    "title": "اختر خطة الدفع",
+    "headerTitle": "اختر الخطة المناسبة لك",
+    "headerSubtitle": "اختر من خيارات الدفع المرنة المصممة لتناسب احتياجاتك",
+    "totalAmount": "المبلغ الإجمالي:",
+    "selectPlanToContinue": "اختر خطة للمتابعة",
+    "proceedToSecurePayment": "المتابعة إلى الدفع الآمن",
+    "paymentSecured": "دفعتك مؤمنة ومشفرة",
+    "paymentFailedTitle": "فشل الدفع",
+    "paymentFailedSubtitle": "تعذر معالجة دفعتك.",
+    "retry": "إعادة المحاولة",
+    "paymentSuccessfulTitle": "تم الدفع بنجاح!",
+    "paymentSuccessfulSubtitle": "تمت معالجة دفعتك بنجاح.",
+    "continueToReciter": "المتابعة إلى المقرئ",
+    "invalidPaymentUrl": "رابط الدفع غير صالح",
+    "paymentFailedDefault": "فشل الدفع"
+  },
+  "completeProfile": {
+    "form": {
+      "completed": "مكتمل",
+      "pending": "في انتظار الانتهاء",
+      "title": "أكمل ملفك الشخصي"
+    }
+  },
+  "createNewPassword": {
+    "form": {
+      "actionText": "العودة إلى تسجيل الدخول",
+      "st1": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور المستخدمة سابقًا",
+      "title": "إنشاء كلمة مرور جديدة"
+    }
+  },
+  "dialog": {
+    "exit": "خروج",
+    "exitSessionSubtitle": "هل أنت متأكد أنك تريد مغادرة الجلسة؟",
+    "exitSessionTitle": "هل تريد إنهاء الجلسة",
+    "stay": "البقاء"
+  },
+  "errorPage": {
+    "subTitle": "يجب عليك الاتصال بالإنترنت لإتمام هذا الإجراء!",
+    "title": "لا يوجد اتصال بالإنترنت"
+  },
+  "forgotPassword": {
+    "form": {
+      "actionText": "العودة إلى تسجيل الدخول",
+      "st1": "الرجاء إدخال عنوان بريدك الإلكتروني لتلقي رمز التحقق",
+      "title": "نسيت كلمة المرور"
+    }
+  },
+  "form": {
+    "error": {
+      "availableTimes": {
+        "noAvailableTimeSlots": "لا توجد فترات زمنية متاحة خلال الـ 24 ساعة القادمة.",
+        "reciterMinmumAvailableTimes": "من فضلك اختر ما لا يقل عن {} أوقات متاحة لديك",
+        "studentMinmumAndMaximumNumOfSessionsWeekly": "حدد {}-{} جلسات بفاصل {} ساعات على الأقل بين كل جلسة."
+      },
+      "confirmPassword": {
+        "mismatch": "كلمة المرور غير متطابقة! تأكد مرة أخرى"
+      },
+      "dateOfBirthAge": {
+        "invalidAge": "تاريخ الميلاد غير صالح. يجب أن يكون عمرك {} عامًا على الأقل للتسجيل"
+      },
+      "email": {
+        "invalid": "يرجى إدخال عنوان بريد إلكتروني صحيح"
+      },
+      "firstName": {
+        "length": "يجب أن يكون الاسم الاول على الأقل ٢ أحرف",
+        "lettersOnly": "الاسم غير صالح"
+      },
+      "lastName": {
+        "length": "يجب أن يكون الاسم الاخير على الأقل ٢ أحرف",
+        "lettersOnly": "الاسم غير صالح"
+      },
+      "middleName": {
+        "length": "يجب أن يكون الاسم الاوسط على الأقل ٢ أحرف",
+        "lettersOnly": "الاسم غير صالح"
+      },
+      "missingTranslation": "لا يمكن ايجاد اسم الخانة",
+      "password": {
+        "length": "يجب أن تكون كلمة المرور على الأقل ٨ أحرف",
+        "missing": "يرجى تضمين حرف كبير وحرف صغير ورقم وحرف خاص على الأقل"
+      },
+      "phoneNumber": {
+        "invalidNumber": "رقم الهاتف غير صالح"
+      },
+      "requiredField": "حقل {field} مطلوب",
+      "unsupported": "اسم الخانة غير موجود"
+    },
+    "field": {
+      "age": "العمر",
+      "bankName": "اسم البنك",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "dateOfBirth": "تاريخ الميلاد",
+      "day": "اليوم",
+      "document": "الملف",
+      "email": "البريد إلكتروني",
+      "firstName": "الاسم الاول",
+      "gender": "الجنس",
+      "iban": "IBAN",
+      "interfaceLanguage": "لغة الواجهة",
+      "lastName": "الاسم الاخير",
+      "learningLanguages": "لغات التعلم",
+      "mainLanguage": "اللغة",
+      "middleName": "الاسم الاوسط",
+      "motherTongue": "اللغة الأم",
+      "nationality": "الجنسية",
+      "newPassword": "كلمة المرور الجديدة",
+      "optional": "(اختياري)",
+      "parentalApproval": "يتطلب موافقة الوالدين لأعمار 13-16.",
+      "parentalConsent": "يجب عليك تأكيد موافقة الوالدين",
+      "password": "كلمة المرور",
+      "paypal": "بايبال (PayPal)",
+      "phoneNumber": "رقم الهاتف",
+      "placeOfResidence": "مكان الاقامة",
+      "profilePicture": "الصورة الشخصية",
+      "recitation": "الرواية",
+      "recitationType": "نوع الرواية",
+      "reciterLanguage": "لغة المقرئ",
+      "startDate": "تاريخ البدء",
+      "swift": "رمز سويفت (SWIFT)",
+      "teachingLanguages": "لغات التدريس",
+      "time": "الوقت",
+      "westernUnion": "ويسترن يونيون",
+      "writeANote ": "اكتب ملاحظة"
+    },
+    "uploadingSubtitle": "جاري التحميل... اكتمل {}٪، يرجى الانتظار.",
+    "uploadingTitle": "جارٍ تحميل ملفاتك",
+    "values": {
+      "select": "اختر"
+    }
+  },
+  "hintPage": {
+    "swipeLeftRightSessions": "اسحب لليسار أو اليمين لعرض الجلسات الأخرى"
+  },
+  "home": {
+    "announcements": {
+      "noAnnouncements": "لا توجد إعلانات حاليا!",
+      "title": "الإعلانات"
+    },
+    "connectingReciters": {
+      "reciters": "المقرئون",
+      "sanadIjazah": "سند إجازة",
+      "sanadItqan": "سند إتقان",
+      "students": "الطلاب"
+    },
+    "dashboard": {
+      "title": "لوحة التحكم"
+    },
+    "myPrograms": {
+      "sessionsCompleted": "{} من {} الجلسات المكتملة",
+      "title": "برامجي"
+    },
+    "ourPrograms": {
+      "description": "نقدم في تطبيق سند للإجازة القرآنية برامج متخصصة تلبي احتياجات جميع الراغبين في إتقان تلاوة القرآن الكريم والحصول على الإجازة بالسند المتصل:",
+      "sessions": "جلسة",
+      "title": "برامجنا التعليمية"
+    },
+    "programingList": {
+      "features": "المميزات",
+      "testimonials": "التوصيات"
+    },
+    "quranRecitation": {
+      "step1": {
+        "subTitle": "ابدأ رحلتك بتعبئة نموذج التسجيل.",
+        "title": "التسجيل"
+      },
+      "step2": {
+        "subTitle": "اختر المقرئ المناسب لتوجيهك في تلاوة القرآن الكريم.",
+        "title": "اختيار المقرئ"
+      },
+      "step3": {
+        "subTitle": "شارك في جلسات تفاعلية مباشرة لتعلم التلاوة وقواعد التجويد.",
+        "title": "الانضمام إلى الجلسات المباشرة"
+      },
+      "step4": {
+        "subTitle": "أكمل رحلتك واحصل على شهادة بالسند المتصل.",
+        "title": "احصل على شهادة السند"
+      },
+      "title": "تلاوة القرآن الكريم"
+    },
+    "sanadMinhaj": {
+      "progress": "تقدّم سند منهاج",
+      "st1": "هل بدأت رحلتك في تعلم تلاوة القرآن وتجويده؟",
+      "st2": "دوراتك الحصرية لتعزيز مهارات التلاوة والتجويد مع سند منهاج، ابدأ الآن!"
+    },
+    "selfLearning": {
+      "discoverMore": "استكشف المزيد",
+      "now": " الآن!",
+      "st1": " وابدأ رحلتك التعليمية الفريدة مع ",
+      "startYourJourney": "ابدأ رحلتك اليوم",
+      "title": "التعلم الذاتي",
+      "withSanadMinhaj": "مع سند منهاج."
+    },
+    "sessionBanner": {
+      "sessionNumber": "رقم جلسة تلاوة القرآن #",
+      "upcomingSession": "الجلسة القادمة",
+      "sessionEnded": "انتهت الجلسة",
+      "loadingNext": "جاري تحميل الجلسة التالية...",
+      "sessionInProgress": "الجلسة جارية",
+      "nextSession": "الجلسة التالية #",
+      "startsIn": "تبدأ بعد"
+    },
+    "thisWeekSessions": {
+      "quranRecitationSession": "جلسة تلاوة القرآن",
+      "title": "جلسات هذا الأسبوع"
+    }
+  },
+  "imagePicker": {
+    "camera": "الكاميرا",
+    "gallery": "المعرض",
+    "popupTitle": "اختر مصدر الصورة"
+  },
+  "itemNotFound": {
+    "subTitle": "القائمة فارغة حاليا",
+    "title": "لم يتم العثور على العناصر"
+  },
+  "login": {
+    "form": {
+      "becomeAReciter": "انضم كمقرئ",
+      "forgot": "هل نسيت كلمة السر؟",
+      "st1": "أو استخدم حساب البريد الإلكتروني الخاص بك",
+      "st2p1": "ليس لديك حساب؟",
+      "st2p2": " تسجيل",
+      "title": "تسجيل الدخول إلى سند"
+    }
+  },
+  "mainDrawer": {
+    "accountSettings": "إعدادات الحساب",
+    "completeBySelectingReciter": "أكمل اشتراكك باختيار المقرئ.",
+    "helpAndSupport": "الدعم & المساعدة",
+    "khitmaProgress": "حالة الختمة",
+    "logout": "تسجيل الخروج",
+    "myProgress": "تقدمي",
+    "myRequests": "طلباتي",
+    "mySchedule": "جدولي",
+    "myStudents": "طلابي",
+    "mySubscription": "اشتراكاتي",
+    "programs": "البرامج",
+    "reciters": "المقرؤون",
+    "sanadIjazahProgram": "برنامج سند إجازة",
+    "sanadMinhaj": "سند منهاج",
+    "skillsAndNotes": "المهارات والملاحظات",
+    "subscriptions": "اشتراكات",
+    "viewProfile": "عرض الملف الشخصي"
+  },
+  "messingCenter": {
+    "selectAContact": "اختر جهة اتصال",
+    "title": "مركز الرسائل"
+  },
+  "modalBottomSheet": {
+    "subTitle": {
+      "st1": "تم إرسال طلبك بنجاح، ستصلك رسالة بالنتيجة ",
+      "st10": "هل أنت متأكد أنك تريد حذف حسابك؟",
+      "st11": "يجب أن تكون طالبًا لهذا المقرئ قبل التواصل معه",
+      "st12": "لقد وصلت إلى الحد الأقصى المسموح به لإلغاء الجلسات.",
+      "st13": "لقد تم الغاء جلستك",
+      "st14": "تم تحديث جدول دروسك",
+      "st15": "هناك طالب مسجل في هذه الفترة الزمنية!\n\nيرجى حل هذا التعارض أولاً",
+      "st16": "تم إرسال طلب الجلسة الإضافية الخاصة بك.",
+      "st17": "هل أنت متأكد أنك تريد تعليق ختمتك؟",
+      "st18": "هل انت متاكد انك تريد تحديث معلومات حسابك؟",
+      "st19": "تم ارسال طلبك.",
+      "st20": "لا تتوفر لديك حاليًا الصلاحيات اللازمة لتنفيذ هذا الإجراء.",
+      "st2": "تم إنشاء حسابك.",
+      "st3": "يجب عليك الاشتراك للتواصل مع المقرئ",
+      "st4": "يجب عليك الاشتراك لتحديد جدولك",
+      "st5": "تم تعيين جدولك",
+      "st6": "لقد تم إرسال طلب جدولك المحدث.",
+      "st7": "هل أنت متأكد أنك تريد إيقاف استقبال الطلاب الجدد مؤقتًا؟",
+      "st8": "لقد بدأت هذه الجلسة! \n الرجاء الانضمام الآن",
+      "st9": "هل أنت متأكد أنك تريد إلغاء هذه الجلسة؟"
+    },
+    "title": {
+      "alright": "حسنا!",
+      "cancelSession": "إلغاء الجلسة",
+      "conflict": "تعارض",
+      "congrats": "تهانينا!",
+      "deleteAccount": "حذف الحساب!",
+      "great": "رائع!",
+      "khitmaSuspension": "تعليق الختمة",
+      "newStudents": "طلاب جدد",
+      "ongoingSession": "الجلسة الحالية",
+      "schedule": "جدول!",
+      "subscribe": "اشتراك!"
+    }
+  },
+  "myRequests": {
+    "filters": {
+      "note": "ملاحظة:",
+      "receivedBy": "تم الاستلام بواسطة:",
+      "requestId": "رقم الطلب",
+      "requestType": "نوع الطلب",
+      "requester": "مقدم الطلب",
+      "status": "الحالة"
+    },
+    "newTime": "الوقت الجديد",
+    "previousTime": "الوقت السابق",
+    "scheduleNote": "يرجى تحديد تاريخ البدء لجدول الطالب الذي يتوافق مع توفرك.",
+    "title": "طلباتي"
+  },
+  "notes": {
+    "myNotes": "ملاحظاتي",
+    "noNotesFound": "لم يتم كتابة ملاحظات في الجلسات المباشرة",
+    "reciterNotes": "ملاحظات المقرئ",
+    "studentNotes": "ملاحظات الطالب"
+  },
+  "notificationsActions": {
+    "actionCenter": "مركز العمل",
+    "markAllAsRead": "تمييز الكل كمقروء",
+    "notifcations": "الإشعارات"
+  },
+  "readingProgress": {
+    "completedSessions": "الجلسات المكتملة",
+    "estimatedEndDate": "التاريخ المتوقع لانهاء الختمة:",
+    "juz": "جزء",
+    "khitmaStartDate": "تاريخ بداية الختمة:",
+    "page": "صفحة",
+    "recitation": "تلاوة",
+    "surah": "سورة",
+    "title": "تقدم الاقراء",
+    "verse": "آية"
+  },
+  "reciter": {
+    "completeProfile": {
+      "availableTimes": {
+        "st1": "اختر الفترات الزمنية المتاحة لك حتى يتمكن الطلاب من طلب جلسة معك وفقًا لذلك.",
+        "tableCaption": "اختر الأوقات المتاحة لك",
+        "title": "الأوقات المتاحة"
+      },
+      "introductoryVideo": {
+        "st1": "إنتاج مقطع فيديو قصير مدته دقيقتان يعرض التلاوة ويبرز مهارات التلاوة النموذجية.",
+        "st2": "(يرجى ملاحظة أن الفيديو التقديمي الخاص بك سيظهر لجميع المستخدمين.)",
+        "title": "فيديو تعريفي",
+        "video": {
+          "step1": "الخطوة ١: التعريف الشخصي",
+          "step2": "الخطوة ٢: قراءة القرآن الكريم ",
+          "step3": "الخطوة ٣: قراءة الآيات القرآنية",
+          "stp1": "مقدمة شخصية",
+          "stp2": "قراءة القرآن الكريم",
+          "stp3": "قراءة الآيات القرآنية",
+          "title": "سيحتوي هذا الفيديو على:"
+        }
+      },
+      "paymentInformation": {
+        "noteSt1": "ملاحظة: سيتم معالجة الدفعات خلال 7 أيام عمل",
+        "st1": "اختر طريقة الدفع المفضلة لديك ثم قم بملء معلوماتك.",
+        "title": "معلومات الدفع",
+        "type1": "تحويل بنكي",
+        "type2": "بايبال",
+        "type3": "ويسترن يونيون"
+      },
+      "profileCompletion": {
+        "description": "اكتب وصفا عن نفسك",
+        "guide1P1": "الموافقة على ",
+        "guide1P2": "سياسات التوظيف.",
+        "guide2P1": "الاتفاق على الالتزام ",
+        "guide2P2": "بمنهج التدريس والتلاوة.",
+        "passowrdTitle": "إنشاء كلمة المرور",
+        "profilePicture": {
+          "st1": "ستظهر هذه الصورة في صفحة الملف الشخصي لجميع المستخدمين.",
+          "title": "تحميل صورة ملفك الشخصي"
+        },
+        "st1": "أكمل معلوماتك الشخصية عن طريق إضافة صورة ملفك الشخصي وإنشاء كلمة المرور الخاصة بك.",
+        "title": "إكمال الملف الشخصي"
+      },
+      "step1": "إكمال الملف الشخصي",
+      "step2": "فيديو تعريفي",
+      "step3": "معلومات الدفع",
+      "step4": "الاوقات المتاحة",
+      "title": "إنشاء حساب",
+      "welcomeCard": {
+        "recitation": "رواية",
+        "welcome": "مرحبا"
+      }
+    },
+    "khitmaProgress": {
+      "availableTime": "الوقت المتاح",
+      "availableTimeDescription": "نسبة الأوقات  المشغولة الى الفترات الزمنية المتاحة",
+      "bottomSheet": {
+        "extraSession": "(جلسة إضافية)",
+        "openQuran": "فتح القرآن",
+        "requestNewSession": "طلب جلسة جديدة",
+        "skillsandNotes": "المهارات والملاحظات",
+        "updateSchedule": "تحديث الجدول",
+        "viewStudentProfile": "عرض ملف الطالب"
+      },
+      "completedSessions": "الجلسات المكتملة",
+      "completedSessionsDescription": "نسبة الإنجاز لكل ختمة",
+      "noStudentAvailable": "لا يوجد طالب متاح",
+      "numberOfAbsence ": "عدد الغيابات ",
+      "numberOfKhitmat": "عدد الختمات",
+      "numberOfSuspendedKhitmat": "عدد الختمات المتوقفة مؤقتا",
+      "students": "الطلاب",
+      "title": "تقدم الختمة"
+    },
+    "profile": {
+      "receiveStudents": "استقبال الطلاب",
+      "unavailable": "غير متاح"
+    },
+    "submitJob": {
+      "certificates": {
+        "certificatesAndRecitations": "الشهادات والتلاوات",
+        "otherCertificates": "تحميل شهادات أخرى ذات صلة بعلم التجويد.",
+        "recitationDocument": "رواية",
+        "st1": "يرجى تحميل صور الشهادات الخاصة بك أو رقم البرنامج الخاص بك من خلال النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل.",
+        "title": "الشهادات"
+      },
+      "personal": {
+        "title": "المعلومات الشخصية"
+      },
+      "step1": "المعلومات الشخصية",
+      "step2": "تحميل البطاقة التعريفية",
+      "step3": "وقت الاختبار",
+      "title": "إنشاء حساب",
+      "uploadID": {
+        "back": "الوجه الخلفي",
+        "front": "الوجه الأمامي",
+        "label": "يمكنك تحميل وثائق بديلة",
+        "st1": "يرجى تحميل صور جانبي بطاقة الهوية الوطنية الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل.",
+        "title": "تحميل مستند التحقق الخاص بك"
+      }
+    }
+  },
+  "registration": {
+    "form": {
+      "becomeAReciter": "انضم كمقرئ",
+      "st1": "أو استخدم بريدك الإلكتروني للتسجيل",
+      "st2p1": " هل لديك حساب؟ ",
+      "st2p2": "تسجيل الدخول",
+      "title": "التسجيل بواسطة"
+    }
+  },
+  "sessionDetails": {
+    "bookmarkVerse": "الآيات المحفوظة",
+    "inProgress": "قيد التنفيذ",
+    "numberOfPages": "عدد الصفحات",
+    "pages": "الصفحات",
+    "sessionConfirmation": {
+      "step1": {
+        "stepTitle": "إكمال الجلسة",
+        "subTitle": "ملاحظة: إذا اخترت 'لا'، فسيتم اعتبار الجلسة غير مكتملة. ستحتاج بعد ذلك إلى جدولة جلسة تعويضية!",
+        "title": "هل تم إكمال هذه الجلسة؟"
+      },
+      "step2": {
+        "stepTitle": "الصفحات المكتملة",
+        "title": "حدد الصفحات المكتملة خلال الجلسة"
+      }
+    },
+    "sessionDateTime": "تاريخ/وقت الجلسة",
+    "sessionDuration": "مدة الجلسة",
+    "sessionRecord": "تسجيل الجلسة",
+    "sessionStatus": "حالة الجلسة",
+    "sessionVideoProcessing": "جاري معالجة فيديو الجلسة، يرجى المحاولة لاحقًا",
+    "title": "تفاصيل الجلسة"
+  },
+  "skills": {
+    "skillsNotes": "المهارات & الملاحظات",
+    "tittle": "المهارات"
+  },
+  "snackbar": {
+    "accountDeletion": "تم حذف حسابك بنجاح!",
+    "completeSession": "تم تحديد الجلسة على أنها مكتملة.",
+    "emailVerified": "تم التحقق من البريد الإلكتروني بنجاح.",
+    "incompleteSession": "تم تحديد الجلسة على أنها غير مكتملة.",
+    "khitmaSuspension": "تم إرسال طلب تعليق الختمة بنجاح!",
+    "passwordReset": "تمت إعادة تعيين كلمة المرور بنجاح! يمكنك الآن تسجيل الدخول باستخدام كلمة المرور الجديدة الخاصة بك",
+    "phoneNumberIsExist": "رقم الهاتف مستخدم",
+    "reciterAddedToFav": "تمت إضافة المقرئ إلى قائمة المفضلة",
+    "reciterContactInfoNotFound": "لم يتم العثور على معلومات الاتصال المقرئ!",
+    "reciterRemovedFromFav": "تمت إزالة المقرئ من قائمة المفضلة",
+    "requestApproved": "تم قبول الطلب",
+    "requestCanceled": "تم إلغاء الطلب",
+    "requestInfoNotFound": "لم يتم العثور على معلومات الطلب",
+    "requestRejected": "تم رفض الطلب!",
+    "unknownActionType": "نوع الإجراء غير معروف!"
+  },
+  "student": {
+    "myProgress": {
+      "AverageOfCompletedPagesInSession": "متوسط الصفحات المكتملة في الجلسة",
+      "AverageOfReadingMinutes": "متوسط دقائق القراءة",
+      "NumberOfAbsence": "عدد مرات الغياب",
+      "NumberOfCancelledSessions": "عدد الجلسات الملغاة",
+      "NumberOfLatenessMinutes": "عدد دقائق التأخير",
+      "NumberOfPassedSkills": "عدد المهارات التي تم اجتيازها",
+      "NumberOfUnpassedSkills": "عدد المهارات التي لم يتم اجتيازها",
+      "pages": "الصفحات",
+      "pagesDescription": "نسبة الصفحات المكتملة بالنسبة لإجمالي صفحات القرآن",
+      "sessions": "جلسة",
+      "sessionsDescription": "نسبة الجلسات المكتملة بالنسبة لإجمالي عدد الجلسات",
+      "title": "تقدمي",
+      "week": "أسبوع {}"
+    },
+    "profile": {
+      "birthday": "تاريخ الميلاد:",
+      "gender": "الجنس",
+      "motherLanguage": "اللغة الأم:",
+      "phoneNumber": "رقم الهاتف",
+      "residentCountry": "بلد الإقامة:",
+      "teachingLanguages": "لغات التدريس",
+      "title": "حسابي",
+      "studentProfile": "حساب الطالب"
+    },
+    "scheduling": {
+      "completeProfile": {
+        "form": {
+          "completed": "مكتمل",
+          "pending": "معلق",
+          "title": "أكمل ملفك الشخصي"
+        }
+      },
+      "createNewPassword": {
+        "form": {
+          "actionText": "العودة إلى تسجيل الدخول",
+          "st1": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور المستخدمة سابقًا",
+          "title": "إنشاء كلمة مرور جديدة"
+        }
+      },
+      "forgotPassword": {
+        "form": {
+          "actionText": "العودة إلى تسجيل الدخول",
+          "st1": "الرجاء إدخال عنوان بريدك الإلكتروني لتلقي رمز التحقق",
+          "title": "نسيت كلمة المرور"
+        }
+      },
+      "home": {
+        "announcements": {
+          "noAnnouncements": "لا توجد إعلانات حاليا!",
+          "title": "الإعلانات"
+        },
+        "connectingReciters": {
+          "reciters": "المقرئون",
+          "sanadIjazah": "سند إجازة",
+          "sanadItqan": "سند إتقان",
+          "students": "الطلاب"
+        },
+        "dashboard": {
+          "title": "لوحة التحكم"
+        },
+        "myPrograms": {
+          "sessionsCompleted": "{} من {} الجلسات المكتملة",
+          "title": "برامجي"
+        },
+        "ourPrograms": {
+          "description": "نقدم في تطبيق سند للإجازة القرآنية برامج متخصصة تلبي احتياجات جميع الراغبين في إتقان تلاوة القرآن الكريم والحصول على الإجازة بالسند المتصل:",
+          "sessions": "جلسة",
+          "title": "برامجنا التعليمية"
+        },
+        "programingList": {
+          "features": "المميزات",
+          "testimonials": "التوصيات"
+        },
+        "quranRecitation": {
+          "step1": {
+            "subTitle": "ابدأ رحلتك بتعبئة نموذج التسجيل.",
+            "title": "التسجيل"
+          },
+          "step2": {
+            "subTitle": "اختر المقرئ المناسب لتوجيهك في تلاوة القرآن الكريم.",
+            "title": "اختيار المقرئ"
+          },
+          "step3": {
+            "subTitle": "شارك في جلسات تفاعلية مباشرة لتعلم التلاوة وقواعد التجويد.",
+            "title": "الانضمام إلى الجلسات المباشرة"
+          },
+          "step4": {
+            "subTitle": "أكمل رحلتك واحصل على شهادة بالسند المتصل.",
+            "title": "احصل على شهادة السند"
+          },
+          "title": "تلاوة القرآن الكريم"
+        },
+        "sanadMinhaj": {
+          "st1": "هل بدأت رحلتك في تعلم تلاوة القرآن وتجويده؟",
+          "st2": "دوراتك الحصرية لتعزيز مهارات التلاوة والتجويد مع سند منهاج، ابدأ الآن!"
+        },
+        "selfLearning": {
+          "discoverMore": "استكشف المزيد",
+          "now": " الآن!",
+          "st1": " وابدأ رحلتك التعليمية الفريدة مع ",
+          "startYourJourney": "ابدأ رحلتك اليوم",
+          "title": "التعلم الذاتي",
+          "withSanadMinhaj": "مع سند منهاج."
+        },
+        "sessionBanner": {
+          "sessionNumber": "رقم جلسة تلاوة القرآن #",
+          "upcomingSession": "الجلسة القادمة"
+        },
+        "thisWeekSessions": {
+          "quranRecitationSession": "جلسة تلاوة القرآن",
+          "title": "جلسات هذا الأسبوع"
+        }
+      },
+      "login": {
+        "form": {
+          "becomeAReciter": "انضم كمقرئ",
+          "forgot": "هل نسيت كلمة السر؟",
+          "st1": "أو استخدم حساب البريد الإلكتروني الخاص بك",
+          "st2p1": "ليس لديك حساب؟",
+          "st2p2": " تسجيل",
+          "title": "تسجيل الدخول إلى سند"
+        }
+      },
+      "mainDrawer": {
+        "accountSettings": "إعدادات الحساب",
+        "completeBySelectingReciter": "أكمل اشتراكك باختيار المقرئ.",
+        "helpAndSupport": "الدعم & المساعدة",
+        "khitmaProgress": "حالة الختمة",
+        "logout": "تسجيل الخروج",
+        "myProgress": "تقدمي",
+        "myRequests": "طلباتي",
+        "mySchedule": "جدولي",
+        "myStudents": "طلابي",
+        "programs": "البرامج",
+        "reciters": "المقرئون",
+        "sanadIjazahProgram": "برنامج سند إجازة",
+        "sanadMinhaj": "سند منهاج",
+        "skillsAndNotes": "المهارات والملاحظات",
+        "subscriptions": "اشتراكات",
+        "viewProfile": "عرض الملف الشخصي"
+      },
+      "myAvailableTime": {
+        "days": "الأيام",
+        "loadingStm": "البحث عن المقرؤون الذين يتوافقون مع أهدافك.",
+        "subTitle": "يمكنك اختيار عدة خيارات",
+        "times": "الأوقات",
+        "title": "ما هي الأوقات المتاحة لديك؟"
+      },
+      "myRequests": {
+        "filters": {
+          "note": "ملاحظة:",
+          "receivedBy": "تم الاستلام بواسطة:",
+          "requestId": "رقم الطلب",
+          "requestType": "نوع الطلب",
+          "requester": "مقدم الطلب",
+          "status": "الحالة"
+        },
+        "newTime": "الوقت الجديد",
+        "previousTime": "الوقت السابق",
+        "scheduleNote": "يرجى تحديد تاريخ البدء لجدول الطالب الذي يتوافق مع توفرك.",
+        "title": "طلباتي"
+      },
+      "reciter": {
+        "completeProfile": {
+          "availableTimes": {
+            "st1": "اختر الفترات الزمنية المتاحة لك حتى يتمكن الطلاب من طلب جلسة معك وفقًا لذلك.",
+            "tableCaption": "اختر الأوقات المتاحة لك",
+            "title": "الأوقات المتاحة"
+          },
+          "introductoryVideo": {
+            "st1": "إنتاج مقطع فيديو قصير مدته دقيقتان يعرض التلاوة ويبرز مهارات التلاوة النموذجية.",
+            "st2": "(يرجى ملاحظة أن الفيديو التقديمي الخاص بك سيظهر لجميع المستخدمين.)",
+            "title": "فيديو تعريفي",
+            "video": {
+              "step1": "الخطوة ١: التعريف الشخصي",
+              "step2": "الخطوة ٢: قراءة القرآن الكريم ",
+              "step3": "الخطوة ٣: قراءة الآيات القرآنية",
+              "stp1": "مقدمة شخصية",
+              "stp2": "قراءة القرآن الكريم",
+              "stp3": "قراءة الآيات القرآنية",
+              "title": "سيحتوي هذا الفيديو على:"
+            }
+          },
+          "paymentInformation": {
+            "noteSt1": "ملاحظة: سيتم معالجة الدفعات خلال 7 أيام عمل",
+            "st1": "اختر طريقة الدفع المفضلة لديك ثم قم بملء معلوماتك.",
+            "title": "معلومات الدفع",
+            "type1": "تحويل بنكي",
+            "type2": "بايبال",
+            "type3": "ويسترن يونيون"
+          },
+          "profileCompletion": {
+            "description": "اكتب وصفا عن نفسك",
+            "guide1P1": "الموافقة على ",
+            "guide1P2": "سياسات التوظيف.",
+            "guide2P1": "الاتفاق على الالتزام ",
+            "guide2P2": "بمنهج التدريس والتلاوة.",
+            "passowrdTitle": "إنشاء كلمة المرور",
+            "profilePicture": {
+              "st1": "ستظهر هذه الصورة في صفحة الملف الشخصي لجميع المستخدمين.",
+              "title": "تحميل صورة ملفك الشخصي"
+            },
+            "st1": "أكمل معلوماتك الشخصية عن طريق إضافة صورة ملفك الشخصي وإنشاء كلمة المرور الخاصة بك.",
+            "title": "إكمال الملف الشخصي"
+          },
+          "step1": "إكمال الملف الشخصي",
+          "step2": "فيديو تعريفي",
+          "step3": "معلومات الدفع",
+          "step4": "الاوقات المتاحة",
+          "title": "إنشاء حساب",
+          "welcomeCard": {
+            "recitation": "رواية",
+            "welcome": "مرحبا"
+          }
+        },
+        "khitmaProgress": {
+          "availableTime": "الوقت المتاح",
+          "availableTimeDescription": "نسبة الأوقات  المشغولة الى الفترات الزمنية المتاحة",
+          "bottomSheet": {
+            "extraSession": "(جلسة إضافية)",
+            "openQuran": "فتح القرآن",
+            "requestNewSession": "طلب جلسة جديدة",
+            "skillsandNotes": "المهارات والملاحظات",
+            "updateSchedule": "تحديث الجدول",
+            "viewStudentProfile": "عرض ملف الطالب"
+          },
+          "completedSessions": "الجلسات المكتملة",
+          "completedSessionsDescription": "نسبة الإنجاز لكل ختمة",
+          "noStudentAvailable": "لا يوجد طالب متاح",
+          "numberOfAbsence ": "عدد الغيابات ",
+          "numberOfKhitmat": "عدد الختمات",
+          "numberOfSuspendedKhitmat": "عدد الختمات المتوقفة مؤقتا",
+          "students": "الطلاب",
+          "title": "تقدم الختمة"
+        },
+        "profile": {
+          "receiveStudents": "استقبال الطلاب",
+          "unavailable": "غير متاح"
+        },
+        "submitJob": {
+          "certificates": {
+            "otherCertificates": "تحميل شهادات أخرى ذات صلة بعلم التجويد.",
+            "recitationDocument": "رواية",
+            "st1": "يرجى تحميل صور الشهادات الخاصة بك أو رقم البرنامج الخاص بك من خلال النقر على أزرار 'تحميل' أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل.",
+            "title": "الشهادات"
+          },
+          "personal": {
+            "title": "المعلومات الشخصية"
+          },
+          "step1": "المعلومات الشخصية",
+          "step2": "تحميل البطاقة التعريفية",
+          "step3": "وقت الاختبار",
+          "title": "إنشاء حساب",
+          "uploadID": {
+            "back": "الوجه الخلفي",
+            "front": "الوجه الأمامي",
+            "label": "يمكنك تحميل وثائق بديلة",
+            "st1": "يرجى تحميل صور جانبي بطاقة الهوية الوطنية الخاصة بك عن طريق النقر على أزرار 'تحميل' أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل.",
+            "title": "تحميل مستند التحقق الخاص بك"
+          }
+        }
+      },
+      "reciterDetails": {
+        "availableTimes": {
+          "contactReciter": "اتصل بالمقرئ",
+          "note": "ملاحظة: ",
+          "noteStm": "حدد 2-3 جلسات أسبوعيًا بفاصل 6 ساعات بين كل جلسة والأخرى.",
+          "noteStmLiveSession": "اختر من الأوقات المتاحة لحجز جلسة مباشرة مع المُرتّل.",
+          "noteStm2": "(هذه الأوقات حسب منطقتك الزمنية المحلية)",
+          "receiveStudents": "استقبال الطلاب",
+          "rectierAvailableTimes": "الأوقات المتاحة للمقرئ",
+          "title": "حدد جدولك الأسبوعي",
+          "titleLiveSession": "حدد وقت الجلسة المباشرة الخاصة بك."
+
+        },
+        "old": "سنة",
+        "recitation": "رواية",
+        "statistics": {
+          "attendance": "الحضور",
+          "experience": "الخبرة",
+          "sessions": "الجلسات",
+          "students": "الطلاب"
+        },
+        "title": "تفاصيل المقرئ"
+      },
+      "reciterListing": {
+        "addPage": "اضافة صفحة",
+        "back": "رجوع",
+        "bookANewSession": "احجز جلسة جديدة",
+        "cancel": "إلغاء",
+        "comingSoon": "قريباً",
+        "confirm": "تأكيد",
+        "delete": "حذف",
+        "deleteAccount": "حذف الحساب",
+        "drawer": {
+          "title": "تصفيات"
+        },
+        "edit": "تعديل",
+        "filters": "الفلاتر",
+        "goToSession": "الذهاب إلى الجلسة",
+        "goToSkillsAndNotes": "الذهاب إلى المهارات والملاحظات",
+        "join": "انضم",
+        "no": "لا",
+        "ok": "حسنًا",
+        "preview": "معاينة",
+        "recitersList": "قائمة المقرئين",
+        "requestChange": "طلب تغيير",
+        "rescheduleSession": "إعادة جدولة الجلسة",
+        "sanadMinhaj": "سند منهاج",
+        "search": "بحث",
+        "skillsAndNotes": "المهارات والملاحظات",
+        "subTitle": "متخصصون بتعليم التلاوة الصحيحة والإجازة القرآنية",
+        "title": "المقرؤون",
+        "typeSomething": "اكتب شيئًا هنا...",
+        "yes": "نعم"
+      },
+      "registration": {
+        "form": {
+          "becomeAReciter": "انضم كمقرئ",
+          "st1": "أو استخدم بريدك الإلكتروني للتسجيل",
+          "st2p1": "ليس لديك حساب؟",
+          "st2p2": " تسجيل",
+          "title": "التسجيل بواسطة"
+        }
+      },
+      "sessionDetails": {
+        "bookmarkVerse": "الآيات المحفوظة",
+        "inProgress": "قيد التنفيذ",
+        "numberOfPages": "عدد الصفحات",
+        "pages": "الصفحات",
+        "sessionConfirmation": {
+          "step1": {
+            "stepTitle": "إكمال الجلسة",
+            "subTitle": "ملاحظة: إذا اخترت 'لا'، فسيتم اعتبار الجلسة غير مكتملة. ستحتاج بعد ذلك إلى جدولة جلسة تعويضية!",
+            "title": "هل تم إكمال هذه الجلسة؟"
+          },
+          "step2": {
+            "stepTitle": "إكمال الجلسة",
+            "title": "حدد الصفحات المكتملة خلال الجلسة"
+          }
+        },
+        "sessionDateTime": "تاريخ/وقت الجلسة",
+        "sessionDuration": "مدة الجلسة",
+        "sessionEndedMessage": "انتهت هذه الجلسة. يرجى التحقق من جدولك للجلسات القادمة أو مراجعة الجلسة المسجلة.",
+        "sessionEndedTitle": "انتهت الجلسة",
+        "sessionRecord": "تسجيل الجلسة",
+        "sessionStatus": "حالة الجلسة",
+        "sessionVideoProcessing": "جاري معالجة فيديو الجلسة، يرجى المحاولة لاحقًا",
+        "title": "تفاصيل الجلسة"
+      },
+      "student": {
+        "myProgress": {
+          "AverageOfCompletedPagesInSession": "متوسط الصفحات المكتملة في الجلسة",
+          "AverageOfReadingMinutes": "متوسط دقائق القراءة",
+          "NumberOfAbsence": "عدد مرات الغياب",
+          "NumberOfCancelledSessions": "عدد الجلسات الملغاة",
+          "NumberOfLatenessMinutes": "عدد دقائق التأخير",
+          "NumberOfPassedSkills": "عدد المهارات التي تم اجتيازها",
+          "NumberOfUnpassedSkills": "عدد المهارات التي لم يتم اجتيازها",
+          "pages": "الصفحات",
+          "pagesDescription": "نسبة الصفحات المكتملة بالنسبة لإجمالي صفحات القرآن",
+          "sessions": "جلسة",
+          "sessionsDescription": "نسبة الجلسات المكتملة بالنسبة لإجمالي عدد الجلسات",
+          "title": "تقدمي",
+          "week": "أسبوع {}"
+        },
+        "profile": {
+          "birthday": "تاريخ الميلاد:",
+          "gender": "الجنس",
+          "motherLanguage": "اللغة الأم:",
+          "phoneNumber": "رقم الهاتف",
+          "residentCountry": "بلد الإقامة:",
+          "teachingLanguages": "لغات التدريس",
+          "title": "حسابي"
+        },
+        "rescheduling": {
+          "mySchedule": {
+            "bottomSheet": {
+              "subTitle": "الجلسات الحالية",
+              "title": "اختر جلسة للتعديل:"
+            },
+            "calendarTitle": "جلساتي",
+            "sessionTypes": {
+              "extraSession": "جلسة إضافية",
+              "incompleteSession": "تم تحديد الجلسة على أنها غير مكتملة.",
+              "makeupSession": "جلسة تعويضية",
+              "normalSession": "جلسة عادية",
+              "rescheduledSession": "جلسة معاد جدولتها"
+            },
+            "title": "جدولي"
+          },
+          "reschedule": {
+            "chooseDay": "اختر اقتراحات الأيام ضمن هذا الأسبوع.",
+            "chooseTime": "اختر الوقت المفضل.",
+            "extraSessionTitle": "جلسة إضافية",
+            "formTitle": "الجلسة الحالية",
+            "makeupOrExtraSessionNote": "عند جدولة جلسة إضافية، يجب عليك تقديم طلبك قبل 24 ساعة على الأقل.",
+            "makeupSessionTitle": "جلسة تعويضية",
+            "mins": "دقائق",
+            "rescheduleSessionNote": "حدد نطاق زمني لتعديل الجدول:",
+            "rescheduleSessionTitle": "إعادة جدولة جلسة لمرة واحدة",
+            "selectNote": "يمكنك تحديد ما يصل إلى 3 اقتراحات.",
+            "sessionName": "جلسة تلاوة القرآن"
+          },
+          "updateSchedule": {
+            "cardTitle": "تغيير الوقت",
+            "clear": "مسح",
+            "formTitle": "تغيير الجدول",
+            "new": "اختيار جديد",
+            "prev": "الاختيار السابق",
+            "selectNote": "حدد نطاق زمني لتعديل الجدول:",
+            "title": "تحديث الجدول"
+          }
+        },
+        "scheduling": {
+          "myAvailableTime": {
+            "days": "الأيام",
+            "loadingStm": "البحث عن المقرؤون الذين يتوافقون مع أهدافك.",
+            "subTitle": "يمكنك اختيار عدة خيارات",
+            "times": "الأوقات",
+            "title": "ما هي الأوقات المتاحة لديك؟"
+          },
+          "reciterDetails": {
+            "availableTimes": {
+              "contactReciter": "اتصل بالمقرئ",
+              "note": "ملاحظة:",
+              "noteStm": "حدد 2-3 جلسات أسبوعيًا بفاصل 6 ساعات بين كل جلسة والأخرى.",
+              "noteStm2": "(هذه الأوقات حسب منطقتك الزمنية المحلية)",
+              "receiveStudents": "استقبال الطلاب",
+              "rectierAvailableTimes": "الأوقات المتاحة للمقرئ",
+              "title": "حدد جدولك الأسبوعي."
+            },
+            "old": "سنة",
+            "recitation": "الرواية",
+            "statistics": {
+              "attendance": "الحضور",
+              "experience": "الخبرة",
+              "sessions": "جلسة",
+              "students": "الطلاب"
+            },
+            "title": "تفاصيل المقرئ"
+          },
+          "reciterListing": {
+            "drawer": {
+              "title": "تصفيات"
+            },
+            "filters": "الفلاتر",
+            "search": "بحث",
+            "subTitle": "متخصصون بتعليم التلاوة الصحيحة والإجازة القرآنية",
+            "title": "المقرؤون"
+          }
+        }
+      },
+      "subscription": {
+        "documents": {
+          "birthCertificate": "شهادة الميلاد",
+          "birthCertificate_under18": "(تحت 18 سنة)",
+          "drivingLicense": "رخصة القيادة",
+          "identityCard": "الهوية المدنية",
+          "passport": "جواز السفر"
+        },
+        "evaluationTestGuidelines": {
+          "st1": "احرص على خلفية مناسبة ليس فيها تشويش وبوجود إضاءة جيدة.",
+          "st2": "احرص على التسجيل في مكان هادئ ليس فيه ضوضاء وليس فيه أحد آخر قد يشوش عليك.",
+          "st3": "احرص على اللباس والمظهر المناسبين.",
+          "st4": "احرص على الجلوس بوضعية مناسبة، وارفع رأسك ليقابل الكاميرا واحرص على توجيه فمك باتجاه المايك.",
+          "st5": "استخدم خاصية فحص الكاميرا والمايك للتأكد من عملهما بشكل جيد.",
+          "st6": "اضغط على زر التسجيل وابدأ تلاوة الآيات التي تظهر أمامك بالتجويد وبأعلى مستوى تسطيعه من الإتقان.",
+          "st7": "بعد إتمام التلاوة؛ اضغط على زر إيقاف التسجيل.",
+          "st8": "بإمكانك الاستماع إلى المقطع المسجل وإعادة تسجيله مرة أخرى قبل إرساله.",
+          "subTitle": "قبل اختبار التقييم",
+          "title": "الإرشادات والتعليمات"
+        },
+        "personal": {
+          "checkbox": "أؤكد أنني حصلت على موافقة من أحد الوالدين أو الوصي",
+          "title": "المعلومات الشخصية"
+        },
+        "program": {
+          "TotalAnnount": "المبلغ الإجمالي",
+          "paymentPage": "صفحة الدفع",
+          "sanadIjazah": "سند إجازة",
+          "sanadItqan": "سند إتقان",
+          "step1": "المعلومات الشخصية",
+          "step2": "تحميل البطاقة التعريفية",
+          "step3": "وقت الاختبار",
+          "subTitle": "دفعة لمرة واحدة"
+        },
+        "testTime": {
+          "guideP1": "الموافقة على ",
+          "guideP2": "الإرشادات والتعليمات",
+          "guideP3": " الخاصة بفيديو التقييم.",
+          "st1": "ستظهر أمامك آيات من القرآن الكريم. ابدأ التسجيل وقم بتلاوة الآيات بوضوح.",
+          "surah": "سورة",
+          "title": "اختبار التقييم",
+          "verses": "آيات"
+        },
+        "uploadID": {
+          "back": "رجوع",
+          "birthCertificate": "يرجى تحميل صورة شهادة الميلاد الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+          "drivingLicense": "يرجى تحميل صورة رخصة القيادة الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+          "front": "الوجه الأمامي",
+          "identityCard": "يرجى تحميل صور جانبي بطاقة الهوية المدنية الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل",
+          "label": "يمكنك تحميل وثائق بديلة",
+          "passport": "يرجى تحميل صورة جواز السفر الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+          "title": "تحميل مستند التحقق الخاص بك"
+        }
+      },
+      "verification": {
+        "form": {
+          "actionText": "تسجيل الخروج",
+          "st1": "يرجى إدخال رمز التحقق المكوّن من 6 أرقام الذي تم إرساله إلى ",
+          "title": "تأكيد البريد الإلكتروني"
+        }
+      }
+    }
+  },
+  "subscription": {
+    "documents": {
+      "birthCertificate": "شهادة الميلاد",
+      "birthCertificate_under18": "(تحت 18 سنة)",
+      "drivingLicense": "رخصة القيادة",
+      "identityCard": "الهوية المدنية",
+      "passport": "جواز السفر"
+    },
+    "evaluationTestGuidelines": {
+      "st1": "احرص على خلفية مناسبة ليس فيها تشويش وبوجود إضاءة جيدة.",
+      "st2": "احرص على التسجيل في مكان هادئ ليس فيه ضوضاء وليس فيه أحد آخر قد يشوش عليك.",
+      "st3": "احرص على اللباس والمظهر المناسبين.",
+      "st4": "احرص على الجلوس بوضعية مناسبة، وارفع رأسك ليقابل الكاميرا واحرص على توجيه فمك باتجاه المايك.",
+      "st5": "استخدم خاصية فحص الكاميرا والمايك للتأكد من عملهما بشكل جيد.",
+      "st6": "اضغط على زر التسجيل وابدأ تلاوة الآيات التي تظهر أمامك بالتجويد وبأعلى مستوى تسطيعه من الإتقان.",
+      "st7": "بعد إتمام التلاوة؛ اضغط على زر إيقاف التسجيل.",
+      "st8": "بإمكانك الاستماع إلى المقطع المسجل وإعادة تسجيله مرة أخرى قبل إرساله.",
+      "subTitle": "قبل اختبار التقييم",
+      "title": "الإرشادات والتعليمات"
+    },
+    "personal": {
+      "checkbox": "أؤكد أنني حصلت على موافقة من أحد الوالدين أو الوصي",
+      "title": "المعلومات الشخصية"
+    },
+    "program": {
+      "TotalAnnount": "المبلغ الإجمالي",
+      "paymentPage": "صفحة الدفع",
+      "sanadIjazah": "سند إجازة",
+      "sanadItqan": "سند إتقان",
+      "step1": "المعلومات الشخصية",
+      "step2": "تحميل البطاقة التعريفية",
+      "step3": "وقت الاختبار",
+      "subTitle": "دفعة لمرة واحدة"
+    },
+    "status": {
+      "approvedStatusDescribtion": "تم اعتماد اشتراكك بنجاح.",
+      "pendingStatusDescribtion": "طلب اشتراكك قيد الانتظار للموافقة عليه",
+      "proceedToPaymentBtn": "تابع للدفع",
+      "rejectionReason": "سبب الرفض",
+      "rejectionReasonDescription": "تم الرفض بسبب فيديو التقييم، حيث إن تلاوة القرآن لم تكن بالمستوى المطلوب."
+    },
+    "subscriptionStatus": {
+      "updateInformationStatusValidation": "يرجى إكمال اشتراكك قبل تعديل معلوماتك."
+    },
+    "testTime": {
+      "contactNow": "اتصل الآن",
+      "guideP1": "الموافقة على ",
+      "guideP2": "الإرشادات والتعليمات",
+      "guideP3": " الخاصة بفيديو التقييم.",
+      "liveSessionOption": "جلسة مباشرة",
+      "livesessionDescription": "إذا كنت تفضل التقييم المباشر، يمكنك اختيار قارئ وتحديد موعد.",
+      "recordingConsent": "تسجيل الفيديو دون فتح الكاميرا",
+      "st1": "ستظهر أمامك آيات من القرآن الكريم، ابدأ التسجيل واقرأ الآيات بطريقة واضحة.",
+      "surah": "سورة",
+      "title": "اختبار التقييم",
+      "verses": "الآيات",
+      "videoOption": "تسجيل فيديو",
+      "whatsAppSchedule": "جدولة عبر واتساب"
+    },
+    "uploadID": {
+      "back": "الوجه الخلفي",
+      "birthCertificate": "يرجى تحميل صورة شهادة الميلاد الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+      "drivingLicense": "يرجى تحميل صورة رخصة القيادة الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+      "front": "الوجه الأمامي",
+      "identityCard": "يرجى تحميل صور جانبي بطاقة الهوية المدنية الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصور واضحة وتظهر كافة التفاصيل",
+      "label": "يمكنك تحميل وثائق بديلة",
+      "passport": "يرجى تحميل صورة جواز السفر الخاصة بك عن طريق النقر على أزرار ‘تحميل’ أدناه. تأكد من أن الصورة واضحة وتظهر كافة التفاصيل",
+      "title": "تحميل مستند التحقق الخاص بك"
+    }
+  },
+  "timeAgo": {
+    "aDay": "منذ يوم واحد",
+    "aboutAMinute": "منذ دقيقة واحدة",
+    "aboutAMonth": "منذ شهر واحد",
+    "aboutAYear": "منذ سنة واحدة",
+    "aboutAnHour": "منذ ساعة واحدة",
+    "ago": "منذ",
+    "justNow": "الآن",
+    "value": "{} {}"
+  },
+  "timePeriods": {
+    "daytime": "النهار",
+    "eveningAndNight": "المساء والليل",
+    "morning": "الصباح"
+  },
+  "times": {
+    "days": "أيام",
+    "from": "من",
+    "hrs": "ساعات",
+    "min": "دقائق",
+    "minutes": "دقائق",
+    "sec": "ثواني",
+    "to": "إلى"
+  },
+  "verification": {
+    "form": {
+      "actionText": "تسجيل الخروج",
+      "st1": "الرجاء إدخال الرمز المكون من 6 أرقام الذي تم إرساله إلى",
+      "title": "تأكيد بريدك الألكتروني"
+    }
+  }
+}

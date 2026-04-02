@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "572632106609",
+    "project_id": "sanad-quran-735b3",
+    "storage_bucket": "sanad-quran-735b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572632106609:android:f28ac23a2d5a9e5ed93dd0",
+        "android_client_info": {
+          "package_name": "com.sanadquran.sanad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572632106609-3ef0rg2lfeji399m7t0as4ej3i4m092r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "2632ac8d67ee35be1d8c7c3d2499db6e71c8e974"
+          }
+        },
+        {
+          "client_id": "572632106609-848dv2cgi832vi04qm1s39q8q3rnjg9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "dfafa9093a296696f9d1bb4f546ab3c8751597b0"
+          }
+        },
+        {
+          "client_id": "572632106609-c5f0evubm0e3eaprudk3k04toopm6cvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "efc923ca4a66f21d657e8c6cb38e2716c04bad78"
+          }
+        },
+        {
+          "client_id": "572632106609-f5b4i2tpkj6gsbta9bj023itvqkkv4i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "66b1a3fae929cc3f96c57253a5198481697e1e7a"
+          }
+        },
+        {
+          "client_id": "572632106609-nlnj3hjc02nhmi0o9km16tiheft87t2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "eb6331275b1fcf2a020d3b3a299a404a776a1c53"
+          }
+        },
+        {
+          "client_id": "572632106609-o8fmdvt7fq4n8v3havhc96e65rgg3hpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "211ff322015d6c4cee82cd92e6eba5c0b0f62aca"
+          }
+        },
+        {
+          "client_id": "572632106609-oe9baf79v57e3df07epqljlcevtu9dak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "0f60add5b1052842c95a03965a0da964e83c35b6"
+          }
+        },
+        {
+          "client_id": "572632106609-ud2hc0e5n3ku2kneg8jn311c370djc4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanadquran.sanad",
+            "certificate_hash": "2515a5e8bca7276311a152eb79953f1c520ff101"
+          }
+        },
+        {
+          "client_id": "572632106609-qa8mbredlg31popgtcnuinqppe198bn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbugYuB6k-Uwn5UeY_FFTgZOvUHpheQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572632106609-qa8mbredlg31popgtcnuinqppe198bn5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572632106609-jlkfqk1in9l9u9k0706qqr238eropft2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanadquran.sanad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
